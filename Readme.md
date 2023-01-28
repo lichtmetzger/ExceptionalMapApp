@@ -45,11 +45,12 @@ cd ~/android-sdk/cmdline-tools/
 ls | grep -v latest | xargs mv -t latest
 ```
 
-Now use the sdkmanager to download the SDK tools for API 29 (Android 10+):
+Now use the sdkmanager to download the SDK tools for API 31 (Android 12+).
+Lower APIs are not accepted into the PlayStore anymore so it doesn't make sense to target those.
 
 ```
 ~/android-sdk/cmdline-tools/latest/bin/sdkmanager --update
-~/android-sdk/cmdline-tools/latest/bin/sdkmanager "platforms;android-29" "build-tools;29.0.3" "extras;google;m2repository" "extras;android;m2repository"
+~/android-sdk/cmdline-tools/latest/bin/sdkmanager "platforms;android-31" "extras;google;m2repository" "extras;android;m2repository"
 ~/android-sdk/cmdline-tools/latest/bin/sdkmanager --licenses
 ```
 
