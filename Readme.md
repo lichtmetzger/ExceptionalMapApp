@@ -1,4 +1,4 @@
-# Karte der Einzigartikeiten - App
+# Karte der Einzigartigkeiten - App
 
 The dev environment used here (at least for preview+Android) was Windows 11 + Debian 11 (on WSL).
 
