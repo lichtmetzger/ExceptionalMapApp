@@ -15,11 +15,7 @@ You can login into Expo with `expo login` and then start building!
 
 ### To preview the app, simply run:
 ```
-npm run start:android
-```
-or
-```
-npm run start:ios
+npm run preview
 ```
 and then scan the QRCode with the Expo App (or the camera on iOS, because it always has to be different).
 
