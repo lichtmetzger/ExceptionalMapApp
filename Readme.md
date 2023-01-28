@@ -72,7 +72,11 @@ Then run
 
 ### To build for iOS, you need these dependencies:
 
-Don't know yet.
+Don't know yet. Pretty sure we need a real Apple device, though:
+
+```
+Error: Unsupported platform, macOS is required to build apps for iOS
+```
 
 ## Building the app for stores
 
