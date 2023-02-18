@@ -13,11 +13,42 @@ npm install -g expo-cli
 Make sure you've created an account on https://expo.dev - this service is used to sign the final builds for use in the PlayStore / App store.
 You can login into Expo with `expo login` and then start building!
 
-### To preview the app, simply run:
+### To start the preview mode, run:
 ```
 npm run preview
 ```
-and then scan the QRCode with the Expo App (or the camera on iOS, because it always has to be different).
+
+### To see your preview:
+
+*Note: The preview mode only works when your phone and the dev machine are on the same network.*
+
+First, install the "Expo Go" app from the App Store or PlayStore.
+
+If you're using WSL you cannot scan the QRCode with the Expo App because the code will generate a URL with the wrong IP adress (=the virtualized WSL IP address).
+
+Also, WSL does not forward any ports to your host by default so the preview mode is completely inaccessible. But there is a tool to do that for you, called __WSLHostPatcher__. Install it like this:
+
+```
+cd ~
+mkdir .wsl; cd .wsl
+wget https://github.com/CzBiX/WSLHostPatcher/releases/download/v0.1.1/WSLHostPatcher.zip
+unzip WSLHostPatcher.zip
+chmod +x ~/.wsl/WSLHostPatcher.exe
+echo "~/.wsl/WSLHostPatcher.exe" >> ~/.bashrc
+```
+
+Now when you run the Expo app, __don't scan the QR Code__. Instead, enter the project URL like this:
+```exp://YOUR_IP_ADDRESS:PORT```
+
+You can find out your ip address by running ipconfig in Windows Terminal.
+
+Example:
+```
+exp://192.168.1.168:19000
+```
+
+__Attention:__ WSLHostPatcher opens ALL ports on your Linux system to the outside world. If you don't want to do this, you can do a more secure and fine-grained firewall tweaking:
+https://blog.expo.dev/running-expo-in-windows-subsystem-for-linux-wsl2-425f6fd7838e
 
 ## Building the app locally
 
