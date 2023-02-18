@@ -50,6 +50,11 @@ exp://192.168.1.168:19000
 __Attention:__ WSLHostPatcher opens ALL ports on your Linux system to the outside world. If you don't want to do this, you can do a more secure and fine-grained firewall tweaking:
 https://blog.expo.dev/running-expo-in-windows-subsystem-for-linux-wsl2-425f6fd7838e
 
+### Debugging
+
+The remote debugger is usually available at:
+http://localhost:19000/debugger-ui/
+
 ## Building the app locally
 
 ### To build for Android, you need these dependencies:
