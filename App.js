@@ -16,7 +16,9 @@ export default function App() {
             position: DEFAULT_COORDINATE,
             icon: '📍',
             size: [32, 32],
-          },
+            title: 'Goldberg Zentrum',
+            id: 1
+          }
         ]}
         mapCenterPosition={DEFAULT_COORDINATE}
       />
