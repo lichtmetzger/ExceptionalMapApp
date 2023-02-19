@@ -10,6 +10,14 @@ const DEFAULT_COORDINATE = {
 
 const DEFAULT_ZOOMLEVEL = 12;
 
+const MAP_LAYERS = [
+  {
+    //url: 'https://tile.qbus.io/{z}/{x}/{y}.png',
+    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    attribution: 'Daten von <a href="https://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>'
+  }
+];
+
 const parsedMarkers = Poi.map((item, i) => (
   {
     ["position"]: item.details.coordinates,
@@ -29,6 +37,7 @@ export default function App() {
         mapMarkers={parsedMarkers}
         mapCenterPosition={DEFAULT_COORDINATE}
         zoom={DEFAULT_ZOOMLEVEL}
+        mapLayers={MAP_LAYERS}
       />
       <StatusBar style="auto" />
     </View>
