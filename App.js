@@ -8,6 +8,8 @@ const DEFAULT_COORDINATE = {
   lng: "12.08928",
 };
 
+const DEFAULT_ZOOMLEVEL = 12;
+
 const parsedMarkers = Poi.map((item, i) => (
   {
     ["position"]: item.details.coordinates,
@@ -26,6 +28,7 @@ export default function App() {
       <LeafletView
         mapMarkers={parsedMarkers}
         mapCenterPosition={DEFAULT_COORDINATE}
+        zoom={DEFAULT_ZOOMLEVEL}
       />
       <StatusBar style="auto" />
     </View>
