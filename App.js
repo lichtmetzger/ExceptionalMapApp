@@ -1,46 +1,11 @@
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { StyleSheet, Text, View } from 'react-native';
-import { LatLng, LeafletView } from 'react-native-leaflet-view';
-import Poi from './assets/poi.json';
-import GomiIcons from './assets/icons.json';
-
-const DEFAULT_COORDINATE = {
-  lat: "53.59171",
-  lng: "12.08928",
-};
-
-const DEFAULT_ZOOMLEVEL = 12;
-
-const MAP_LAYERS = [
-  {
-    //url: 'https://tile.qbus.io/{z}/{x}/{y}.png',
-    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-    attribution: 'Daten von <a href="https://www.openstreetmap.org/">OpenStreetMap</a> - Veröffentlicht unter <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>'
-  }
-];
-
-const parsedMarkers = Poi.map((item, i) => (
-  {
-    ["position"]: {
-      ["lat"]: item.details.coordinates.lat,
-      ["lng"]: item.details.coordinates.long 
-    },
-    ["icon"]: GomiIcons[item.details.icon],
-    ["title"]: item.title.rendered,
-    ["id"]: i,
-    ["excerpt"]: item.details.excerpt,
-  }
-));
+import { StyleSheet } from 'react-native';
+import OSMap from './components/OSMap';
 
 export default function App() {
   return (
       <SafeAreaView style={styles.container}>
-        <LeafletView
-          mapMarkers={parsedMarkers}
-          mapCenterPosition={DEFAULT_COORDINATE}
-          zoom={DEFAULT_ZOOMLEVEL}
-          mapLayers={MAP_LAYERS}
-        />
+        <OSMap />
       </SafeAreaView>
   );
 }
