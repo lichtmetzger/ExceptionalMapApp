@@ -39,7 +39,8 @@ function OSMap() {
                 mapMarkers={parsedMarkers}
                 mapCenterPosition={DEFAULT_COORDINATE}
                 zoom={DEFAULT_ZOOMLEVEL}
-                mapLayers={MAP_LAYERS}/>
+                mapLayers={MAP_LAYERS}
+                />
         </SafeAreaView>);
 };
 

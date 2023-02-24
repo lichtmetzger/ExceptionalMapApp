@@ -1,20 +1,29 @@
-import { SafeAreaView } from 'react-native-safe-area-context';
-import { StyleSheet } from 'react-native';
+import { SafeAreaView, SafeAreaProvider } from 'react-native-safe-area-context';
+import { View, StyleSheet } from 'react-native';
+import { StatusBar } from 'expo-status-bar';
 import OSMap from './components/OSMap';
+import TopMenu from './components/TopMenu';
 
 export default function App() {
   return (
-      <SafeAreaView style={styles.container}>
-        <OSMap />
-      </SafeAreaView>
+      <SafeAreaProvider>
+        <StatusBar style="dark"></StatusBar>
+        <SafeAreaView style={styles.container}>
+          {/* Make sure topMenu stays below StatusBar */}
+          <View style={styles.topMenuWrap}>
+            <TopMenu />
+          </View>
+          <OSMap />
+        </SafeAreaView>
+      </SafeAreaProvider>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: '#ffffff'
   },
+  topMenuWrap: {
+    flex: 1
+  }
 });
