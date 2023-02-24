@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { LatLng, LeafletView } from 'react-native-leaflet-view';
 import Poi from './assets/poi.json';
+import GomiIcons from './assets/icons.json';
 
 const DEFAULT_COORDINATE = {
   lat: "53.59171",
@@ -24,9 +25,7 @@ const parsedMarkers = Poi.map((item, i) => (
       ["lat"]: item.details.coordinates.lat,
       ["lng"]: item.details.coordinates.long 
     },
-    //["icon"]: item.details.icon,
-    ["icon"]: '📍',
-    ["size"]: [32, 32],
+    ["icon"]: GomiIcons[item.details.icon],
     ["title"]: item.title.rendered,
     ["id"]: i,
     ["excerpt"]: item.details.excerpt,

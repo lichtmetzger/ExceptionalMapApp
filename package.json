@@ -8,7 +8,8 @@
     "start:ios": "expo start --ios",
     "start:web": "expo start --web",
     "build:android": "eas build --platform android --profile preview --local",
-    "build:ios": "eas build --platform ios --local"
+    "build:ios": "eas build --platform ios --local",
+    "build:icons": "./node_modules/.bin/many-svg-to-json ./assets/icons/ --recursive false --format json -o ./assets/icons.json"
   },
   "dependencies": {
     "expo": "~47.0.12",
@@ -23,7 +24,8 @@
     "react-native-webview": "^11.23.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "many-svg-to-json": "github:BrunoWinck/many-svg-to-json"
   },
   "private": true
 }
