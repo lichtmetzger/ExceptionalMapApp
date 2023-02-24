@@ -20,7 +20,10 @@ const MAP_LAYERS = [
 
 const parsedMarkers = Poi.map((item, i) => (
   {
-    ["position"]: item.details.coordinates,
+    ["position"]: {
+      ["lat"]: item.details.coordinates.lat,
+      ["lng"]: item.details.coordinates.long 
+    },
     //["icon"]: item.details.icon,
     ["icon"]: '📍',
     ["size"]: [32, 32],

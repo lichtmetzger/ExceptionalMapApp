@@ -1,2215 +1,2144 @@
-// 20230224100950
-// https://gomi.qbus.dev/wp-json/wp/v2/poi?per_page=100
-
 [
     {
-      "id": 5171,
-      "date": "2023-02-07T15:33:22",
-      "date_gmt": "2023-02-07T14:33:22",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5171"
-      },
-      "modified": "2023-02-07T15:33:22",
-      "modified_gmt": "2023-02-07T14:33:22",
-      "slug": "gutshaus-hahnenhorst",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gutshaus-hahnenhorst/",
-      "title": {
-        "rendered": "Gutshaus Hahnenhorst"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin</p>\n\n\n\n<p>Das Gutshaus liegt östlich des Damerower Sees mitten im Naturpark Nossentiner/Schwinzer Heide und wurde um 1789 erbaut.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.571924222100854",
-          "long": "12.244942234482792"
+        "id": 5171,
+        "date": "2023-02-07T15:33:22",
+        "date_gmt": "2023-02-07T14:33:22",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5171"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin Das Gutshaus liegt östlich des Damerower Sees mitten im Naturpark Nossentiner/Schwinzer Heide und wurde um 1789 [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5171"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5171"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T15:33:22",
+        "modified_gmt": "2023-02-07T14:33:22",
+        "slug": "gutshaus-hahnenhorst",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gutshaus-hahnenhorst\/",
+        "title": {
+            "rendered": "Gutshaus Hahnenhorst"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin<\/p>\n\n\n\n<p>Das Gutshaus liegt \u00f6stlich des Damerower Sees mitten im Naturpark Nossentiner\/Schwinzer Heide und wurde um 1789 erbaut.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.571924222100854",
+                "long": "12.244942234482792"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin Das Gutshaus liegt \u00f6stlich des Damerower Sees mitten im Naturpark Nossentiner\/Schwinzer Heide und wurde um 1789 [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5171"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5171"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5170,
-      "date": "2023-02-07T15:25:01",
-      "date_gmt": "2023-02-07T14:25:01",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5170"
-      },
-      "modified": "2023-02-07T15:25:01",
-      "modified_gmt": "2023-02-07T14:25:01",
-      "slug": "gruener-jaeger",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gruener-jaeger/",
-      "title": {
-        "rendered": "Grüner Jäger"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Wooster Teerofen</p>\n\n\n\n<p>Ursprünglich 1689 als Krug (Wirtshaus) an einem Kreuzungspunkt mehrerer Landstraßen und Postrouten entstanden, wurden in der Folge weitere Gebäude errichtet. Mit dem Entstehen fester Straßen und einer Eisenbahnlinie sank die Bedeutung der Landstraßen und somit des Kreuzungspunktes. Nach Bränden in der zweiten Hälfte des 19. Jahrhunderts wurden Gasthäuser und ein Holzwärterhaus nicht mehr wiedererrichtet. Seit 1945 war auch das letzte Grundstück wüst. Von der einstigen Siedlung zeugen heute eine Infotafel und zwei Winterlinden, die einst vor einem Gasthaus standen.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.597243",
-          "long": "12.226586"
+        "id": 5170,
+        "date": "2023-02-07T15:25:01",
+        "date_gmt": "2023-02-07T14:25:01",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5170"
         },
-        "icon": "landschaft",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Wooster Teerofen Ursprünglich 1689 als Krug (Wirtshaus) an einem Kreuzungspunkt mehrerer Landstraßen und Postrouten entstanden, [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5170"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5170"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T15:25:01",
+        "modified_gmt": "2023-02-07T14:25:01",
+        "slug": "gruener-jaeger",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gruener-jaeger\/",
+        "title": {
+            "rendered": "Gr\u00fcner J\u00e4ger"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Wooster Teerofen<\/p>\n\n\n\n<p>Urspr\u00fcnglich 1689 als Krug (Wirtshaus) an einem Kreuzungspunkt mehrerer Landstra\u00dfen und Postrouten entstanden, wurden in der Folge weitere Geb\u00e4ude errichtet. Mit dem Entstehen fester Stra\u00dfen und einer Eisenbahnlinie sank die Bedeutung der Landstra\u00dfen und somit des Kreuzungspunktes. Nach Br\u00e4nden in der zweiten H\u00e4lfte des 19. Jahrhunderts wurden Gasth\u00e4user und ein Holzw\u00e4rterhaus nicht mehr wiedererrichtet. Seit 1945 war auch das letzte Grundst\u00fcck w\u00fcst. Von der einstigen Siedlung zeugen heute eine Infotafel und zwei Winterlinden, die einst vor einem Gasthaus standen.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.597243",
+                "long": "12.226586"
+            },
+            "icon": "landschaft",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Wooster Teerofen Urspr\u00fcnglich 1689 als Krug (Wirtshaus) an einem Kreuzungspunkt mehrerer Landstra\u00dfen und Postrouten entstanden, [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5170"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5170"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5169,
-      "date": "2023-02-07T15:11:10",
-      "date_gmt": "2023-02-07T14:11:10",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5169"
-      },
-      "modified": "2023-02-07T15:11:10",
-      "modified_gmt": "2023-02-07T14:11:10",
-      "slug": "pfarrhaus-gross-poserin",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/pfarrhaus-gross-poserin/",
-      "title": {
-        "rendered": "Pfarrhaus Groß Poserin"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Groß Poserin</p>\n\n\n\n<p>Das alte Pfarrhaus mit seinen Nebengebäuden und dem alten Baumbestand wird heute als Freizeit- und Erholungsheim genutzt.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.549339619447586",
-          "long": "12.183566256027225"
+        "id": 5169,
+        "date": "2023-02-07T15:11:10",
+        "date_gmt": "2023-02-07T14:11:10",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5169"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Groß Poserin Das alte Pfarrhaus mit seinen Nebengebäuden und dem alten Baumbestand wird heute als [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5169"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5169"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T15:11:10",
+        "modified_gmt": "2023-02-07T14:11:10",
+        "slug": "pfarrhaus-gross-poserin",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/pfarrhaus-gross-poserin\/",
+        "title": {
+            "rendered": "Pfarrhaus Gro\u00df Poserin"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Gro\u00df Poserin<\/p>\n\n\n\n<p>Das alte Pfarrhaus mit seinen Nebengeb\u00e4uden und dem alten Baumbestand wird heute als Freizeit- und Erholungsheim genutzt.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.549339619447586",
+                "long": "12.183566256027225"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Gro\u00df Poserin Das alte Pfarrhaus mit seinen Nebengeb\u00e4uden und dem alten Baumbestand wird heute als [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5169"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5169"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5168,
-      "date": "2023-02-07T15:06:37",
-      "date_gmt": "2023-02-07T14:06:37",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5168"
-      },
-      "modified": "2023-02-07T15:06:37",
-      "modified_gmt": "2023-02-07T14:06:37",
-      "slug": "friedhofskapelle-gross-poserin",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/friedhofskapelle-gross-poserin/",
-      "title": {
-        "rendered": "Friedhofskapelle Groß Poserin"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Groß Poserin</p>\n\n\n\n<p>Etwas außerhalb auf dem alten Friedhof, der bereits seit 1861 besteht, erreicht man über eine Lindenallee die alte Friedhofskapelle mit ihrem oktogonalen Zentralbau.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.549771211420236",
-          "long": "12.180409416099"
+        "id": 5168,
+        "date": "2023-02-07T15:06:37",
+        "date_gmt": "2023-02-07T14:06:37",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5168"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Groß Poserin Etwas außerhalb auf dem alten Friedhof, der bereits seit 1861 besteht, erreicht man [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5168"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5168"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T15:06:37",
+        "modified_gmt": "2023-02-07T14:06:37",
+        "slug": "friedhofskapelle-gross-poserin",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/friedhofskapelle-gross-poserin\/",
+        "title": {
+            "rendered": "Friedhofskapelle Gro\u00df Poserin"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Gro\u00df Poserin<\/p>\n\n\n\n<p>Etwas au\u00dferhalb auf dem alten Friedhof, der bereits seit 1861 besteht, erreicht man \u00fcber eine Lindenallee die alte Friedhofskapelle mit ihrem oktogonalen Zentralbau.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.549771211420236",
+                "long": "12.180409416099"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Gro\u00df Poserin Etwas au\u00dferhalb auf dem alten Friedhof, der bereits seit 1861 besteht, erreicht man [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5168"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5168"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5167,
-      "date": "2023-02-07T15:03:34",
-      "date_gmt": "2023-02-07T14:03:34",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5167"
-      },
-      "modified": "2023-02-07T15:03:34",
-      "modified_gmt": "2023-02-07T14:03:34",
-      "slug": "dorfkirche-gross-poserin",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/dorfkirche-gross-poserin/",
-      "title": {
-        "rendered": "Dorfkirche Groß Poserin"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Groß Poserin</p>\n\n\n\n<p>Eine Dorfkirche aus dem 19 Jahrhundert mit eindrucksvollem Tonnengewölbe befindet sich in Groß Poserin. Besondere Aufmerksamkeit zieht die Holztonnenkonstruktion der Kirche auf sich. Eine dendrochronologische Untersuchung der Spanten ergab ein Fälldatum der verwendeten Hölzer um 1757. Die Bretter, die die Tonnen bilden ergeben eine eigenständige Konstruktion, die die Raumwirkung des Kirchenschiffs stark aufwertet. Seit dem Beginn des 17. Jahrhunderts hat die Familie von Linstow die Patronatschaft über die Groß Poseriner Kirche inne. Im Jahre 1708 stirbt der letzte männliche Nachkomme dieser Familie; seine Grabplatte befindet sich im Kircheninnern.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.54819019484426",
-          "long": "12.181751132011414"
+        "id": 5167,
+        "date": "2023-02-07T15:03:34",
+        "date_gmt": "2023-02-07T14:03:34",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5167"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Groß Poserin Eine Dorfkirche aus dem 19 Jahrhundert mit eindrucksvollem Tonnengewölbe befindet sich in Groß [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5167"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5167"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T15:03:34",
+        "modified_gmt": "2023-02-07T14:03:34",
+        "slug": "dorfkirche-gross-poserin",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/dorfkirche-gross-poserin\/",
+        "title": {
+            "rendered": "Dorfkirche Gro\u00df Poserin"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Gro\u00df Poserin<\/p>\n\n\n\n<p>Eine Dorfkirche aus dem 19 Jahrhundert mit eindrucksvollem Tonnengew\u00f6lbe befindet sich in Gro\u00df Poserin. Besondere Aufmerksamkeit zieht die Holztonnenkonstruktion der Kirche auf sich. Eine dendrochronologische Untersuchung der Spanten ergab ein F\u00e4lldatum der verwendeten H\u00f6lzer um 1757. Die Bretter, die die Tonnen bilden ergeben eine eigenst\u00e4ndige Konstruktion, die die Raumwirkung des Kirchenschiffs stark aufwertet. Seit dem Beginn des 17. Jahrhunderts hat die Familie von Linstow die Patronatschaft \u00fcber die Gro\u00df Poseriner Kirche inne. Im Jahre 1708 stirbt der letzte m\u00e4nnliche Nachkomme dieser Familie; seine Grabplatte befindet sich im Kircheninnern.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.54819019484426",
+                "long": "12.181751132011414"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Gro\u00df Poserin Eine Dorfkirche aus dem 19 Jahrhundert mit eindrucksvollem Tonnengew\u00f6lbe befindet sich in Gro\u00df [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5167"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5167"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5166,
-      "date": "2023-02-07T14:59:48",
-      "date_gmt": "2023-02-07T13:59:48",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5166"
-      },
-      "modified": "2023-02-07T14:59:48",
-      "modified_gmt": "2023-02-07T13:59:48",
-      "slug": "jagdhaus-am-damerower-see",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/jagdhaus-am-damerower-see/",
-      "title": {
-        "rendered": "Jagdhaus am Damerower See"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Neu Damerow</p>\n\n\n\n<p>Das kleine Jagdschlösschen am Damerower See wurde 1910 durch Wilhelm von Treuenfels im Schwarzwaldstil erbaut. Es handelt sich um einen fünfachsigen Kompaktbau in Putz und Holzbekleidung mit Krüppelwalmdach und Schieferdeckung. Das Dach ist frontal weit vorgezogen und mit Holzbalken gestützt. Im Erdgeschoss ziert offenes und abgesetztes Umgebinde das Haus. Auf der Dachseite ist eine Halbrundgaube. Nach hinten führt eine breite Terrasse in den Park. Das Haus ist auf Natursteinfundamenten gesetzt. Den Seiteneingang flankieren zwei Wildschweinplastiken. Auf der Vorderfront stehen zwei Hirschplastiken auf hohen Sockeln. Nach 1945 wurde das Jagdhaus als Lungenheilstätte genutzt. Heute befindet es sich in Privatbesitz.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.557204785637886",
-          "long": "12.20560440649939"
+        "id": 5166,
+        "date": "2023-02-07T14:59:48",
+        "date_gmt": "2023-02-07T13:59:48",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5166"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Neu Damerow Das kleine Jagdschlösschen am Damerower See wurde 1910 durch Wilhelm von Treuenfels im [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5166"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5166"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T14:59:48",
+        "modified_gmt": "2023-02-07T13:59:48",
+        "slug": "jagdhaus-am-damerower-see",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/jagdhaus-am-damerower-see\/",
+        "title": {
+            "rendered": "Jagdhaus am Damerower See"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Neu Damerow<\/p>\n\n\n\n<p>Das kleine Jagdschl\u00f6sschen am Damerower See wurde 1910 durch Wilhelm von Treuenfels im Schwarzwaldstil erbaut. Es handelt sich um einen f\u00fcnfachsigen Kompaktbau in Putz und Holzbekleidung mit Kr\u00fcppelwalmdach und Schieferdeckung. Das Dach ist frontal weit vorgezogen und mit Holzbalken gest\u00fctzt. Im Erdgeschoss ziert offenes und abgesetztes Umgebinde das Haus. Auf der Dachseite ist eine Halbrundgaube. Nach hinten f\u00fchrt eine breite Terrasse in den Park. Das Haus ist auf Natursteinfundamenten gesetzt. Den Seiteneingang flankieren zwei Wildschweinplastiken. Auf der Vorderfront stehen zwei Hirschplastiken auf hohen Sockeln. Nach 1945 wurde das Jagdhaus als Lungenheilst\u00e4tte genutzt. Heute befindet es sich in Privatbesitz.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.557204785637886",
+                "long": "12.20560440649939"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Neu Damerow Das kleine Jagdschl\u00f6sschen am Damerower See wurde 1910 durch Wilhelm von Treuenfels im [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5166"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5166"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5165,
-      "date": "2023-02-07T14:50:28",
-      "date_gmt": "2023-02-07T13:50:28",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5165"
-      },
-      "modified": "2023-02-07T14:50:28",
-      "modified_gmt": "2023-02-07T13:50:28",
-      "slug": "gerhard-cornelsenhaus",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gerhard-cornelsenhaus/",
-      "title": {
-        "rendered": "Gerhard Cornelsenhaus"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Wooster Teerofen</p>\n\n\n\n<p>Das Cornelsenhaus gehört zur Naturparkverwaltung. Von hier aus starten im Winter z.B. die Winterwanderungen durch den Naturpark.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58822231793605",
-          "long": "12.215843030828957"
+        "id": 5165,
+        "date": "2023-02-07T14:50:28",
+        "date_gmt": "2023-02-07T13:50:28",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5165"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Wooster Teerofen Das Cornelsenhaus gehört zur Naturparkverwaltung. Von hier aus starten im Winter z.B. die [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5165"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5165"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T14:50:28",
+        "modified_gmt": "2023-02-07T13:50:28",
+        "slug": "gerhard-cornelsenhaus",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gerhard-cornelsenhaus\/",
+        "title": {
+            "rendered": "Gerhard Cornelsenhaus"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Wooster Teerofen<\/p>\n\n\n\n<p>Das Cornelsenhaus geh\u00f6rt zur Naturparkverwaltung. Von hier aus starten im Winter z.B. die Winterwanderungen durch den Naturpark.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58822231793605",
+                "long": "12.215843030828957"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Wooster Teerofen Das Cornelsenhaus geh\u00f6rt zur Naturparkverwaltung. Von hier aus starten im Winter z.B. die [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5165"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5165"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5164,
-      "date": "2023-02-07T14:42:30",
-      "date_gmt": "2023-02-07T13:42:30",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5164"
-      },
-      "modified": "2023-02-07T14:42:30",
-      "modified_gmt": "2023-02-07T13:42:30",
-      "slug": "gutshaus-mit-park-neu-poserin",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gutshaus-mit-park-neu-poserin/",
-      "title": {
-        "rendered": "Gutshaus mit Park Neu Poserin"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin</p>\n\n\n\n<p>Das Gutshaus aus dem 19. Jahrhundert befindet sich zurzeit nicht im besten Zustand. Der zugehörige Park beeindruckt aber um so mehr durch seine vielfältige Flora und Fauna. Hier  findet man eine uralte Winterlinde, Steileichen, eine Blutbuche, eine Japanische Sicheltanne, alte Flatterulmen, einen Tulpenbaum, Urweltmammutbäume, einen Ginko und Chinesische Blauglockenbäume. Aus der Tierwelt finden sich hier Fischreiher, Kranich, Haubenmeise, Schwanzmeise, Singdrossel, Roter Milan, Sperber, Bussard, mehrere Fledermausarten, Waldohreule, Kauz und verschiedenste Schmetterlingsarten.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.55095642663355",
-          "long": "12.161710319060823"
+        "id": 5164,
+        "date": "2023-02-07T14:42:30",
+        "date_gmt": "2023-02-07T13:42:30",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5164"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin Das Gutshaus aus dem 19. Jahrhundert befindet sich zurzeit nicht im besten Zustand. Der zugehörige Park [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5164"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5164"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T14:42:30",
+        "modified_gmt": "2023-02-07T13:42:30",
+        "slug": "gutshaus-mit-park-neu-poserin",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gutshaus-mit-park-neu-poserin\/",
+        "title": {
+            "rendered": "Gutshaus mit Park Neu Poserin"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin<\/p>\n\n\n\n<p>Das Gutshaus aus dem 19. Jahrhundert befindet sich zurzeit nicht im besten Zustand. Der zugeh\u00f6rige Park beeindruckt aber um so mehr durch seine vielf\u00e4ltige Flora und Fauna. Hier  findet man eine uralte Winterlinde, Steileichen, eine Blutbuche, eine Japanische Sicheltanne, alte Flatterulmen, einen Tulpenbaum, Urweltmammutb\u00e4ume, einen Ginko und Chinesische Blauglockenb\u00e4ume. Aus der Tierwelt finden sich hier Fischreiher, Kranich, Haubenmeise, Schwanzmeise, Singdrossel, Roter Milan, Sperber, Bussard, mehrere Fledermausarten, Waldohreule, Kauz und verschiedenste Schmetterlingsarten.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.55095642663355",
+                "long": "12.161710319060823"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin Das Gutshaus aus dem 19. Jahrhundert befindet sich zurzeit nicht im besten Zustand. Der zugeh\u00f6rige Park [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5164"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5164"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5163,
-      "date": "2023-02-07T11:40:57",
-      "date_gmt": "2023-02-07T10:40:57",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5163"
-      },
-      "modified": "2023-02-07T11:44:16",
-      "modified_gmt": "2023-02-07T10:44:16",
-      "slug": "luetkemueller-orgel-ruest",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/luetkemueller-orgel-ruest/",
-      "title": {
-        "rendered": "Lütkemüller-Orgel Ruest"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Mestlin, OT  Ruest</p>\n\n\n\n<p>Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann Lütkemüller aus dem 19. Jahrhundert gibt es im Amt Goldberg-Mildenitz. Eine der Orgeln befindet sich in der Dorfkirche in Ruest und stammt aus dem Jahr 1874, ist aber leider nicht mehr spielbar.</p>\n\n\n\n<p>Die ältere von beiden aus dem Jahr 1859 befindet sich in der Dorfkirche in Woosten und ist noch vollkommen bespielbar. </p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.6149861574061",
-          "long": "11.944145810301023"
+        "id": 5163,
+        "date": "2023-02-07T11:40:57",
+        "date_gmt": "2023-02-07T10:40:57",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5163"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Mestlin, OT Ruest Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann Lütkemüller aus dem 19. Jahrhundert gibt es im [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5163"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5163"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T11:44:16",
+        "modified_gmt": "2023-02-07T10:44:16",
+        "slug": "luetkemueller-orgel-ruest",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/luetkemueller-orgel-ruest\/",
+        "title": {
+            "rendered": "L\u00fctkem\u00fcller-Orgel Ruest"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Mestlin, OT  Ruest<\/p>\n\n\n\n<p>Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann L\u00fctkem\u00fcller aus dem 19. Jahrhundert gibt es im Amt Goldberg-Mildenitz. Eine der Orgeln befindet sich in der Dorfkirche in Ruest und stammt aus dem Jahr 1874, ist aber leider nicht mehr spielbar.<\/p>\n\n\n\n<p>Die \u00e4ltere von beiden aus dem Jahr 1859 befindet sich in der Dorfkirche in Woosten und ist noch vollkommen bespielbar. <\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.6149861574061",
+                "long": "11.944145810301023"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Mestlin, OT Ruest Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann L\u00fctkem\u00fcller aus dem 19. Jahrhundert gibt es im [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5163"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5163"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5161,
-      "date": "2023-02-07T11:35:46",
-      "date_gmt": "2023-02-07T10:35:46",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5161"
-      },
-      "modified": "2023-02-07T11:35:46",
-      "modified_gmt": "2023-02-07T10:35:46",
-      "slug": "luetkemueller-orgel-woosten",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/luetkemueller-orgel-woosten/",
-      "title": {
-        "rendered": "Lütkemüller-Orgel Woosten"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, OT  Woosten</p>\n\n\n\n<p>Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann Lütkemüller aus dem 19. Jahrhundert gibt es im Amt Goldberg-Mildenitz. Die ältere von beiden aus dem Jahr 1859 befindet sich in der Dorfkirche in Woosten und ist noch vollkommen bespielbar. Eine weitere steht in der Dorfkirche in Ruest. </p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.56536687460885",
-          "long": "12.1107892560316"
+        "id": 5161,
+        "date": "2023-02-07T11:35:46",
+        "date_gmt": "2023-02-07T10:35:46",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5161"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg, OT Woosten Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann Lütkemüller aus dem 19. Jahrhundert gibt es im [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5161"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5161"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T11:35:46",
+        "modified_gmt": "2023-02-07T10:35:46",
+        "slug": "luetkemueller-orgel-woosten",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/luetkemueller-orgel-woosten\/",
+        "title": {
+            "rendered": "L\u00fctkem\u00fcller-Orgel Woosten"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, OT  Woosten<\/p>\n\n\n\n<p>Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann L\u00fctkem\u00fcller aus dem 19. Jahrhundert gibt es im Amt Goldberg-Mildenitz. Die \u00e4ltere von beiden aus dem Jahr 1859 befindet sich in der Dorfkirche in Woosten und ist noch vollkommen bespielbar. Eine weitere steht in der Dorfkirche in Ruest. <\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.56536687460885",
+                "long": "12.1107892560316"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg, OT Woosten Zwei Orgeln des bedeutenden Orgelbauers Friedrich Hermann L\u00fctkem\u00fcller aus dem 19. Jahrhundert gibt es im [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5161"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5161"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5160,
-      "date": "2023-02-07T11:20:22",
-      "date_gmt": "2023-02-07T10:20:22",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5160"
-      },
-      "modified": "2023-02-07T11:20:22",
-      "modified_gmt": "2023-02-07T10:20:22",
-      "slug": "naturschutzgebiet-jellen",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/naturschutzgebiet-jellen/",
-      "title": {
-        "rendered": "Naturschutzgebiet Jellen"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Dobbertin im Naturpark Nossentiner/Schwinzer Heide</p>\n\n\n\n<p>Das Naturschutzgebiet (NSG) Jellen ist das kleinste NSG im Amt Goldberg-Mildenitz. 1957 wurde der dort wachsende Kiefernwald mit Kiefern der ersten Waldgeneration im Übergang zu einem Buchenwald mit Resten von Wacholder unter Schutz gestellt. Insgesamt hat das NSG eine Fläche von 24 ha.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.634366854583625",
-          "long": "12.192537223296238"
+        "id": 5160,
+        "date": "2023-02-07T11:20:22",
+        "date_gmt": "2023-02-07T10:20:22",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5160"
         },
-        "icon": "landschaft",
-        "excerpt": "Lage: Gemeinde Dobbertin im Naturpark Nossentiner/Schwinzer Heide Das Naturschutzgebiet (NSG) Jellen ist das kleinste NSG im Amt Goldberg-Mildenitz. 1957 wurde [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5160"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5160"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T11:20:22",
+        "modified_gmt": "2023-02-07T10:20:22",
+        "slug": "naturschutzgebiet-jellen",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/naturschutzgebiet-jellen\/",
+        "title": {
+            "rendered": "Naturschutzgebiet Jellen"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Dobbertin im Naturpark Nossentiner\/Schwinzer Heide<\/p>\n\n\n\n<p>Das Naturschutzgebiet (NSG) Jellen ist das kleinste NSG im Amt Goldberg-Mildenitz. 1957 wurde der dort wachsende Kiefernwald mit Kiefern der ersten Waldgeneration im \u00dcbergang zu einem Buchenwald mit Resten von Wacholder unter Schutz gestellt. Insgesamt hat das NSG eine Fl\u00e4che von 24 ha.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.634366854583625",
+                "long": "12.192537223296238"
+            },
+            "icon": "landschaft",
+            "excerpt": "Lage: Gemeinde Dobbertin im Naturpark Nossentiner\/Schwinzer Heide Das Naturschutzgebiet (NSG) Jellen ist das kleinste NSG im Amt Goldberg-Mildenitz. 1957 wurde [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5160"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5160"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5159,
-      "date": "2023-02-07T11:11:48",
-      "date_gmt": "2023-02-07T10:11:48",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5159"
-      },
-      "modified": "2023-02-07T11:11:48",
-      "modified_gmt": "2023-02-07T10:11:48",
-      "slug": "alte-meierei-jellen",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/alte-meierei-jellen/",
-      "title": {
-        "rendered": "Alte Meierei Jellen"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Dobbertin, OT Jellen</p>\n\n\n\n<p>Das älteste Gebäude einer alten Meierei steht in Jellen. Auf der Südseite des Hauses befand sich eine Küche zur Reifung von Käse.</p>\n\n\n\n<p>Schon 1647 versuchte das Klosteramt die Ortschaften Jellen und Kogel zu verpachten. Doch erst Anfang 1700 wurde ein selbständiger Hof mit einem Verwalter als Meierei, auch Schäferei genannt, angelegt.  Der Hof bestand aus dem Pächterhaus, einer Scheune, dem Viehhaus und einem Schafstall. Niedrige Anschaffungskosten und nur wenige Menschen waren zu deren Unterhalt notwendig und vom Klosteramt wurde das Vieh gestellt.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.62291466368069",
-          "long": "12.147404600927203"
+        "id": 5159,
+        "date": "2023-02-07T11:11:48",
+        "date_gmt": "2023-02-07T10:11:48",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5159"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Dobbertin, OT Jellen Das älteste Gebäude einer alten Meierei steht in Jellen. Auf der Südseite des Hauses befand [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5159"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5159"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T11:11:48",
+        "modified_gmt": "2023-02-07T10:11:48",
+        "slug": "alte-meierei-jellen",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/alte-meierei-jellen\/",
+        "title": {
+            "rendered": "Alte Meierei Jellen"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Dobbertin, OT Jellen<\/p>\n\n\n\n<p>Das \u00e4lteste Geb\u00e4ude einer alten Meierei steht in Jellen. Auf der S\u00fcdseite des Hauses befand sich eine K\u00fcche zur Reifung von K\u00e4se.<\/p>\n\n\n\n<p>Schon 1647 versuchte das Klosteramt die Ortschaften Jellen und Kogel zu verpachten.\u00a0Doch erst Anfang 1700 wurde ein selbst\u00e4ndiger Hof mit einem Verwalter als Meierei, auch Sch\u00e4ferei genannt, angelegt.  Der Hof bestand aus dem P\u00e4chterhaus, einer Scheune, dem Viehhaus und einem Schafstall.\u00a0Niedrige Anschaffungskosten und nur wenige Menschen waren zu deren Unterhalt notwendig und vom Klosteramt wurde das Vieh gestellt.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.62291466368069",
+                "long": "12.147404600927203"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Dobbertin, OT Jellen Das \u00e4lteste Geb\u00e4ude einer alten Meierei steht in Jellen. Auf der S\u00fcdseite des Hauses befand [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5159"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5159"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5158,
-      "date": "2023-02-07T11:03:26",
-      "date_gmt": "2023-02-07T10:03:26",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5158"
-      },
-      "modified": "2023-02-07T11:03:27",
-      "modified_gmt": "2023-02-07T10:03:27",
-      "slug": "gutshaus-kressin",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gutshaus-kressin/",
-      "title": {
-        "rendered": "Gutshaus Kressin"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Kressin</p>\n\n\n\n<p>Am Ortsrand von Kressin, direkt am Zahrener See liegt das alte Gutshaus. </p>\n\n\n\n<p>Kressin war ursprünglich ein Bauerndorf. Nach dem Dreißigjährigen Krieg und der damit einhergehenden Zerstörung, entstand hier zu Beginn des 18. Jahrhunderts das Rittergut mit häufig wechselnden Eigentümern. Im Jahr 1896 war Hans Selpcke Besitzer des ca. 300 ha großen Gutes. In der Zeit des 1. Weltkrieges befand sich das Gut im Besitz der Gräfin Rantzau, danach der Familie von Boddin. </p>\n\n\n\n<p>Das Gut ist 1933 an die Reichsumsiedlungsgesellschaft (Ruges) verkauft und ab 1936 aufgesiedelt worden. Das Restgut wurde 1945 enteignet und das Land an Neubauern vergeben.</p>\n\n\n\n<p>Das Gutshaus im Stil der Tudorgotik und der dahinter liegende Park befinden sich in Privatbesitz.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.53427786623431",
-          "long": "12.13125023144602"
+        "id": 5158,
+        "date": "2023-02-07T11:03:26",
+        "date_gmt": "2023-02-07T10:03:26",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5158"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Neu Poserin, OT Kressin Am Ortsrand von Kressin, direkt am Zahrener See liegt das alte Gutshaus. Kressin war [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5158"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5158"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T11:03:27",
+        "modified_gmt": "2023-02-07T10:03:27",
+        "slug": "gutshaus-kressin",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gutshaus-kressin\/",
+        "title": {
+            "rendered": "Gutshaus Kressin"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin, OT Kressin<\/p>\n\n\n\n<p>Am Ortsrand von Kressin, direkt am Zahrener See liegt das alte Gutshaus. <\/p>\n\n\n\n<p>Kressin war urspr\u00fcnglich ein Bauerndorf. Nach dem Drei\u00dfigj\u00e4hrigen Krieg und der damit einhergehenden Zerst\u00f6rung, entstand hier zu Beginn des 18. Jahrhunderts das Rittergut mit h\u00e4ufig wechselnden Eigent\u00fcmern. Im Jahr 1896 war Hans Selpcke Besitzer des ca. 300 ha gro\u00dfen Gutes. In der Zeit des 1. Weltkrieges befand sich das Gut im Besitz der Gr\u00e4fin Rantzau, danach der Familie von Boddin. <\/p>\n\n\n\n<p>Das Gut ist 1933 an die Reichsumsiedlungsgesellschaft (Ruges) verkauft und ab 1936 aufgesiedelt worden. Das Restgut wurde 1945 enteignet und das Land an Neubauern vergeben.<\/p>\n\n\n\n<p>Das Gutshaus im Stil der Tudorgotik und der dahinter liegende Park befinden sich in Privatbesitz.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.53427786623431",
+                "long": "12.13125023144602"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Neu Poserin, OT Kressin Am Ortsrand von Kressin, direkt am Zahrener See liegt das alte Gutshaus. Kressin war [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5158"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5158"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5157,
-      "date": "2023-02-07T10:53:04",
-      "date_gmt": "2023-02-07T09:53:04",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5157"
-      },
-      "modified": "2023-02-07T10:53:04",
-      "modified_gmt": "2023-02-07T09:53:04",
-      "slug": "neuapostolische-kirche-goldberg",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/neuapostolische-kirche-goldberg/",
-      "title": {
-        "rendered": "Neuapostolische Kirche Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, Amtsstraße 11</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.590877798795226",
-          "long": "12.090853750705719"
+        "id": 5157,
+        "date": "2023-02-07T10:53:04",
+        "date_gmt": "2023-02-07T09:53:04",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5157"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg, Amtsstraße 11"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5157"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5157"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:53:04",
+        "modified_gmt": "2023-02-07T09:53:04",
+        "slug": "neuapostolische-kirche-goldberg",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/neuapostolische-kirche-goldberg\/",
+        "title": {
+            "rendered": "Neuapostolische Kirche Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, Amtsstra\u00dfe 11<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.590877798795226",
+                "long": "12.090853750705719"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg, Amtsstra\u00dfe 11"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5157"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5157"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 5156,
-      "date": "2023-02-07T10:47:20",
-      "date_gmt": "2023-02-07T09:47:20",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=5156"
-      },
-      "modified": "2023-02-07T10:47:20",
-      "modified_gmt": "2023-02-07T09:47:20",
-      "slug": "katholische-kirche-goldberg",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/katholische-kirche-goldberg/",
-      "title": {
-        "rendered": "Katholische Kirche Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, Jungfernstraße 32</p>\n\n\n\n<p>1845 als Synagoge erbaut, wurde das Gebäude 1917 von der jüdischen Gemeinde verkauft und fingiert seit 1952 als katholische Kirche in Goldberg.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58858841606133",
-          "long": "12.089316844940186"
+        "id": 5156,
+        "date": "2023-02-07T10:47:20",
+        "date_gmt": "2023-02-07T09:47:20",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=5156"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg, Jungfernstraße 32 1845 als Synagoge erbaut, wurde das Gebäude 1917 von der jüdischen Gemeinde verkauft und fingiert [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/5156"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=5156"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:47:20",
+        "modified_gmt": "2023-02-07T09:47:20",
+        "slug": "katholische-kirche-goldberg",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/katholische-kirche-goldberg\/",
+        "title": {
+            "rendered": "Katholische Kirche Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, Jungfernstra\u00dfe 32<\/p>\n\n\n\n<p>1845 als Synagoge erbaut, wurde das Geb\u00e4ude 1917 von der j\u00fcdischen Gemeinde verkauft und fingiert seit 1952 als katholische Kirche in Goldberg.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58858841606133",
+                "long": "12.089316844940186"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg, Jungfernstra\u00dfe 32 1845 als Synagoge erbaut, wurde das Geb\u00e4ude 1917 von der j\u00fcdischen Gemeinde verkauft und fingiert [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/5156"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=5156"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4997,
-      "date": "2023-01-05T11:33:40",
-      "date_gmt": "2023-01-05T10:33:40",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4997"
-      },
-      "modified": "2023-01-05T11:33:40",
-      "modified_gmt": "2023-01-05T10:33:40",
-      "slug": "schwinzer-heide",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/schwinzer-heide/",
-      "title": {
-        "rendered": "Schwinzer Heide"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinden Dobbertin, Neu Poserin und Stadt Goldberg</p>\n\n\n\n<p>Mit ca. 10.000 ha Fläche ist die Schwinzer Heide der größte zusammenhängende Wald im Landkreis Ludwigslust-Parchim.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.602391179139815",
-          "long": "12.187353535156253"
+        "id": 4997,
+        "date": "2023-01-05T11:33:40",
+        "date_gmt": "2023-01-05T10:33:40",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4997"
         },
-        "icon": "landschaft",
-        "excerpt": "Lage: Gemeinden Dobbertin, Neu Poserin und Stadt Goldberg Mit ca. 10.000 ha Fläche ist die Schwinzer Heide der größte zusammenhängende [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4997"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4997"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-01-05T11:33:40",
+        "modified_gmt": "2023-01-05T10:33:40",
+        "slug": "schwinzer-heide",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/schwinzer-heide\/",
+        "title": {
+            "rendered": "Schwinzer Heide"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinden Dobbertin, Neu Poserin und Stadt Goldberg<\/p>\n\n\n\n<p>Mit ca. 10.000 ha Fl\u00e4che ist die Schwinzer Heide der gr\u00f6\u00dfte zusammenh\u00e4ngende Wald im Landkreis Ludwigslust-Parchim.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.602391179139815",
+                "long": "12.187353535156253"
+            },
+            "icon": "landschaft",
+            "excerpt": "Lage: Gemeinden Dobbertin, Neu Poserin und Stadt Goldberg Mit ca. 10.000 ha Fl\u00e4che ist die Schwinzer Heide der gr\u00f6\u00dfte zusammenh\u00e4ngende [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4997"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4997"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4996,
-      "date": "2023-01-05T11:29:08",
-      "date_gmt": "2023-01-05T10:29:08",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4996"
-      },
-      "modified": "2023-01-05T11:29:09",
-      "modified_gmt": "2023-01-05T10:29:09",
-      "slug": "grosser-kleiner-serrahn",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/grosser-kleiner-serrahn/",
-      "title": {
-        "rendered": "Großer &amp; Kleiner Serrahn"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin im Naturpark Nossentiner/Schwinzer Heide</p>\n\n\n\n<p>Der Große Serrahn ist das größte Moor im Amt Goldberg-Mildenitz. Es hat eine Ausdehnung von 450 ha und besteht aus bis zu 8m mächtigen Muddeschichten. Das Moor ist aus einem ehemaligen Flachsee entstanden, der ab 1840 abgelassen wurde, um Grünland zu gewinnen. Zusammen mit dem Kleinen Serrahn bildet der Große Serrahn bei einer Fläche von 722 ha das größte Naturschutzgebiet.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.57810422515341",
-          "long": "12.170838370756568"
+        "id": 4996,
+        "date": "2023-01-05T11:29:08",
+        "date_gmt": "2023-01-05T10:29:08",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4996"
         },
-        "icon": "landschaft",
-        "excerpt": "Lage: Gemeinde Neu Poserin im Naturpark Nossentiner/Schwinzer Heide Der Große Serrahn ist das größte Moor im Amt Goldberg-Mildenitz. Es hat [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4996"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4996"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-01-05T11:29:09",
+        "modified_gmt": "2023-01-05T10:29:09",
+        "slug": "grosser-kleiner-serrahn",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/grosser-kleiner-serrahn\/",
+        "title": {
+            "rendered": "Gro\u00dfer &amp; Kleiner Serrahn"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin im Naturpark Nossentiner\/Schwinzer Heide<\/p>\n\n\n\n<p>Der Gro\u00dfe Serrahn ist das gr\u00f6\u00dfte Moor im Amt Goldberg-Mildenitz. Es hat eine Ausdehnung von 450 ha und besteht aus bis zu 8m m\u00e4chtigen Muddeschichten. Das Moor ist aus einem ehemaligen Flachsee entstanden, der ab 1840 abgelassen wurde, um Gr\u00fcnland zu gewinnen. Zusammen mit dem Kleinen Serrahn bildet der Gro\u00dfe Serrahn bei einer Fl\u00e4che von 722 ha das gr\u00f6\u00dfte Naturschutzgebiet.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.57810422515341",
+                "long": "12.170838370756568"
+            },
+            "icon": "landschaft",
+            "excerpt": "Lage: Gemeinde Neu Poserin im Naturpark Nossentiner\/Schwinzer Heide Der Gro\u00dfe Serrahn ist das gr\u00f6\u00dfte Moor im Amt Goldberg-Mildenitz. Es hat [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4996"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4996"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4977,
-      "date": "2022-11-09T14:58:35",
-      "date_gmt": "2022-11-09T13:58:35",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4977"
-      },
-      "modified": "2022-11-09T14:58:35",
-      "modified_gmt": "2022-11-09T13:58:35",
-      "slug": "dampfmaschine-im-saegewerk-in-goldberg",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/dampfmaschine-im-saegewerk-in-goldberg/",
-      "title": {
-        "rendered": "Dampfmaschine im Sägewerk in Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg</p>\n\n\n\n<p>Die älteste Dampfmaschine des Amtes steht im Sägewerk in Goldberg. Die ortsfeste Heißdampf-Lokomobile mit Kolbenschiebersteuerung wurde 1956 erbaut. Die Dampfmaschine ist mittlerweile als technisches Denkmal eingetragen, aber immer noch voll funktionsfähig.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58731480200034",
-          "long": "12.083235545616153"
+        "id": 4977,
+        "date": "2022-11-09T14:58:35",
+        "date_gmt": "2022-11-09T13:58:35",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4977"
         },
-        "icon": "geschichte",
-        "excerpt": "Lage: Stadt Goldberg Die älteste Dampfmaschine des Amtes steht im Sägewerk in Goldberg. Die ortsfeste Heißdampf-Lokomobile mit Kolbenschiebersteuerung wurde 1956 [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4977"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4977"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:58:35",
+        "modified_gmt": "2022-11-09T13:58:35",
+        "slug": "dampfmaschine-im-saegewerk-in-goldberg",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/dampfmaschine-im-saegewerk-in-goldberg\/",
+        "title": {
+            "rendered": "Dampfmaschine im S\u00e4gewerk in Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg<\/p>\n\n\n\n<p>Die \u00e4lteste Dampfmaschine des Amtes steht im S\u00e4gewerk in Goldberg. Die ortsfeste Hei\u00dfdampf-Lokomobile mit Kolbenschiebersteuerung wurde 1956 erbaut. Die Dampfmaschine ist mittlerweile als technisches Denkmal eingetragen, aber immer noch voll funktionsf\u00e4hig.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58731480200034",
+                "long": "12.083235545616153"
+            },
+            "icon": "geschichte",
+            "excerpt": "Lage: Stadt Goldberg Die \u00e4lteste Dampfmaschine des Amtes steht im S\u00e4gewerk in Goldberg. Die ortsfeste Hei\u00dfdampf-Lokomobile mit Kolbenschiebersteuerung wurde 1956 [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4977"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4977"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4976,
-      "date": "2022-11-09T14:52:38",
-      "date_gmt": "2022-11-09T13:52:38",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4976"
-      },
-      "modified": "2022-11-09T14:52:38",
-      "modified_gmt": "2022-11-09T13:52:38",
-      "slug": "gutshaus-grambow-mit-gutspark",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gutshaus-grambow-mit-gutspark/",
-      "title": {
-        "rendered": "Gutshaus Grambow mit Gutspark"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg OT Grambow</p>\n\n\n\n<p>Das älteste Gutshaus im Amt befindet sich in Grambow. Das heutige Gebäude wurde um 1700 erbaut und 1866 wesentlich erweitert. Die großen Kellerräume mit ihren flachen Tonnengewölben sind vermutlich deutlich älter und könnten zu einem Vorgängerbau gehört haben. Im angrenzenden Gutspark befindet sich die stärkste Schwarzkiefer im Landkreis Ludwigslust-Parchim. Ihr Stammumfang misst 490 cm. Im Park steht auch die große Openair-Parkbühne.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.546304783216236",
-          "long": "12.03988031909943"
+        "id": 4976,
+        "date": "2022-11-09T14:52:38",
+        "date_gmt": "2022-11-09T13:52:38",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4976"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg OT Grambow Das älteste Gutshaus im Amt befindet sich in Grambow. Das heutige Gebäude wurde um 1700 [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4976"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4976"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:52:38",
+        "modified_gmt": "2022-11-09T13:52:38",
+        "slug": "gutshaus-grambow-mit-gutspark",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gutshaus-grambow-mit-gutspark\/",
+        "title": {
+            "rendered": "Gutshaus Grambow mit Gutspark"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg OT Grambow<\/p>\n\n\n\n<p>Das \u00e4lteste Gutshaus im Amt befindet sich in Grambow. Das heutige Geb\u00e4ude wurde um 1700 erbaut und 1866 wesentlich erweitert. Die gro\u00dfen Kellerr\u00e4ume mit ihren flachen Tonnengew\u00f6lben sind vermutlich deutlich \u00e4lter und k\u00f6nnten zu einem Vorg\u00e4ngerbau geh\u00f6rt haben. Im angrenzenden Gutspark befindet sich die st\u00e4rkste Schwarzkiefer im Landkreis Ludwigslust-Parchim. Ihr Stammumfang misst 490 cm. Im Park steht auch die gro\u00dfe Openair-Parkb\u00fchne.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.546304783216236",
+                "long": "12.03988031909943"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg OT Grambow Das \u00e4lteste Gutshaus im Amt befindet sich in Grambow. Das heutige Geb\u00e4ude wurde um 1700 [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4976"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4976"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4975,
-      "date": "2022-11-09T14:44:29",
-      "date_gmt": "2022-11-09T13:44:29",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4975"
-      },
-      "modified": "2022-11-09T14:44:29",
-      "modified_gmt": "2022-11-09T13:44:29",
-      "slug": "elektrisches-schneckenschoepfwerk-langenhagen",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/elektrisches-schneckenschoepfwerk-langenhagen/",
-      "title": {
-        "rendered": "Elektrisches Schneckenschöpfwerk Langenhagen"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Techentin OT Langenhagen</p>\n\n\n\n<p>Mit der Elektrifizierung Langenhagens im Jahr 1924 wurde das Schneckenschöpfwerk zur Entwässerung gebaut. Seit 1990 ist es als Denkmal ausgewiesen.</p>\n\n\n\n<p> </p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.57353268379648",
-          "long": "12.027418776016239"
+        "id": 4975,
+        "date": "2022-11-09T14:44:29",
+        "date_gmt": "2022-11-09T13:44:29",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4975"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Techentin OT Langenhagen Mit der Elektrifizierung Langenhagens im Jahr 1924 wurde das Schneckenschöpfwerk zur Entwässerung gebaut. Seit 1990 [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4975"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4975"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:44:29",
+        "modified_gmt": "2022-11-09T13:44:29",
+        "slug": "elektrisches-schneckenschoepfwerk-langenhagen",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/elektrisches-schneckenschoepfwerk-langenhagen\/",
+        "title": {
+            "rendered": "Elektrisches Schneckensch\u00f6pfwerk Langenhagen"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Techentin OT Langenhagen<\/p>\n\n\n\n<p>Mit der Elektrifizierung Langenhagens im Jahr 1924 wurde das Schneckensch\u00f6pfwerk zur Entw\u00e4sserung gebaut. Seit 1990 ist es als Denkmal ausgewiesen.<\/p>\n\n\n\n<p> <\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.57353268379648",
+                "long": "12.027418776016239"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Techentin OT Langenhagen Mit der Elektrifizierung Langenhagens im Jahr 1924 wurde das Schneckensch\u00f6pfwerk zur Entw\u00e4sserung gebaut. Seit 1990 [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4975"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4975"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4974,
-      "date": "2022-11-09T14:32:15",
-      "date_gmt": "2022-11-09T13:32:15",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4974"
-      },
-      "modified": "2022-11-09T14:32:15",
-      "modified_gmt": "2022-11-09T13:32:15",
-      "slug": "forsthaus-klaeden",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/forsthaus-klaeden/",
-      "title": {
-        "rendered": "Forsthaus Kläden"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Dobbertin OT Kläden</p>\n\n\n\n<p>Ebenfalls in Kläden befindet sich der alte Forsthof mit Forsthaus. 1728 wurde er von der Dobbertiner Klosterverwaltung als erster Forsthof im Klostergebiet verkehrsgünstig an zwei Fernwegen errichtet. 2007 schließlich wurde der Hof geschlossen.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.646244013872085",
-          "long": "12.052693529652364"
+        "id": 4974,
+        "date": "2022-11-09T14:32:15",
+        "date_gmt": "2022-11-09T13:32:15",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4974"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Dobbertin OT Kläden Ebenfalls in Kläden befindet sich der alte Forsthof mit Forsthaus. 1728 wurde er von der [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4974"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4974"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:32:15",
+        "modified_gmt": "2022-11-09T13:32:15",
+        "slug": "forsthaus-klaeden",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/forsthaus-klaeden\/",
+        "title": {
+            "rendered": "Forsthaus Kl\u00e4den"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Dobbertin OT Kl\u00e4den<\/p>\n\n\n\n<p>Ebenfalls in Kl\u00e4den befindet sich der alte Forsthof mit Forsthaus. 1728 wurde er von der Dobbertiner Klosterverwaltung als erster Forsthof im Klostergebiet verkehrsg\u00fcnstig an zwei Fernwegen errichtet. 2007 schlie\u00dflich wurde der Hof geschlossen.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.646244013872085",
+                "long": "12.052693529652364"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Dobbertin OT Kl\u00e4den Ebenfalls in Kl\u00e4den befindet sich der alte Forsthof mit Forsthaus. 1728 wurde er von der [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4974"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4974"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4973,
-      "date": "2022-11-09T14:29:16",
-      "date_gmt": "2022-11-09T13:29:16",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4973"
-      },
-      "modified": "2022-11-09T14:29:16",
-      "modified_gmt": "2022-11-09T13:29:16",
-      "slug": "kapelle-klaeden",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/kapelle-klaeden/",
-      "title": {
-        "rendered": "Kapelle Kläden"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Dobbertin OT Kläden</p>\n\n\n\n<p>Bereits 1804 befindet sich ein Begräbnisplatz in der Dorfmitte Klädens. Dort, wo nun der Friedhof ist und die 1869 errichtete Kapelle steht. Die Bauzeit der Kapelle betrug zwei Jahre aufgrund von akutem Mangel an Bausteinen. 1912 wurde die Kapelle durch Klädener Bürger saniert. Zwischen 1950 und 1973 dient das Kapellengebäude als Gemeinderaum. 1974 schließlich wurde es an Privatleute vermietet. Seit 1996 ist das Gebäude in Privatbesitz und dient als Wochenenddomizil.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.64544991098456",
-          "long": "12.0551494708684"
+        "id": 4973,
+        "date": "2022-11-09T14:29:16",
+        "date_gmt": "2022-11-09T13:29:16",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4973"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Dobbertin OT Kläden Bereits 1804 befindet sich ein Begräbnisplatz in der Dorfmitte Klädens. Dort, wo nun der Friedhof [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4973"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4973"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:29:16",
+        "modified_gmt": "2022-11-09T13:29:16",
+        "slug": "kapelle-klaeden",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/kapelle-klaeden\/",
+        "title": {
+            "rendered": "Kapelle Kl\u00e4den"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Dobbertin OT Kl\u00e4den<\/p>\n\n\n\n<p>Bereits 1804 befindet sich ein Begr\u00e4bnisplatz in der Dorfmitte Kl\u00e4dens. Dort, wo nun der Friedhof ist und die 1869 errichtete Kapelle steht. Die Bauzeit der Kapelle betrug zwei Jahre aufgrund von akutem Mangel an Bausteinen. 1912 wurde die Kapelle durch Kl\u00e4dener B\u00fcrger saniert. Zwischen 1950 und 1973 dient das Kapellengeb\u00e4ude als Gemeinderaum. 1974 schlie\u00dflich wurde es an Privatleute vermietet. Seit 1996 ist das Geb\u00e4ude in Privatbesitz und dient als Wochenenddomizil.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.64544991098456",
+                "long": "12.0551494708684"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Dobbertin OT Kl\u00e4den Bereits 1804 befindet sich ein Begr\u00e4bnisplatz in der Dorfmitte Kl\u00e4dens. Dort, wo nun der Friedhof [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4973"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4973"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4972,
-      "date": "2022-11-09T14:17:13",
-      "date_gmt": "2022-11-09T13:17:13",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4972"
-      },
-      "modified": "2022-11-09T14:17:13",
-      "modified_gmt": "2022-11-09T13:17:13",
-      "slug": "klaedener-muehle",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/klaedener-muehle/",
-      "title": {
-        "rendered": "Klädener Mühle"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Dobbertin OT Kläden</p>\n\n\n\n<p>Etwas außerhalb von Kläden an der Mildenitz gelegen befindet sich die Klädener Mühle. Die älteste Wassermühle im Amt. Die alte Mühle in Kläden wurde vermutlich vom Mühlbauer Hendrick Glove erbaut, dessen Grabplatte sich in der Klosterkirche in Dobbertin befindet. Das noch existierende Wohnhaus des Müllers wurde 1940 erbaut und bis Mitte der 1970er zu Wohnzwecken genutzt. Seit 1990 ist das Gebäude Privatbesitz und wird als Ferienwohnung vermietet.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.64487229404587",
-          "long": "12.034993367203075"
+        "id": 4972,
+        "date": "2022-11-09T14:17:13",
+        "date_gmt": "2022-11-09T13:17:13",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4972"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Dobbertin OT Kläden Etwas außerhalb von Kläden an der Mildenitz gelegen befindet sich die Klädener Mühle. Die älteste [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4972"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4972"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:17:13",
+        "modified_gmt": "2022-11-09T13:17:13",
+        "slug": "klaedener-muehle",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/klaedener-muehle\/",
+        "title": {
+            "rendered": "Kl\u00e4dener M\u00fchle"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Dobbertin OT Kl\u00e4den<\/p>\n\n\n\n<p>Etwas au\u00dferhalb von Kl\u00e4den an der Mildenitz gelegen befindet sich die Kl\u00e4dener M\u00fchle. Die \u00e4lteste Wasserm\u00fchle im Amt. Die alte M\u00fchle in Kl\u00e4den wurde vermutlich vom M\u00fchlbauer Hendrick Glove erbaut, dessen Grabplatte sich in der Klosterkirche in Dobbertin befindet. Das noch existierende Wohnhaus des M\u00fcllers wurde 1940 erbaut und bis Mitte der 1970er zu Wohnzwecken genutzt. Seit 1990 ist das Geb\u00e4ude Privatbesitz und wird als Ferienwohnung vermietet.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.64487229404587",
+                "long": "12.034993367203075"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Dobbertin OT Kl\u00e4den Etwas au\u00dferhalb von Kl\u00e4den an der Mildenitz gelegen befindet sich die Kl\u00e4dener M\u00fchle. Die \u00e4lteste [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4972"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4972"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4971,
-      "date": "2022-11-09T14:11:04",
-      "date_gmt": "2022-11-09T13:11:04",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4971"
-      },
-      "modified": "2022-11-09T14:11:04",
-      "modified_gmt": "2022-11-09T13:11:04",
-      "slug": "gutshaus-vimfow",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/gutshaus-vimfow/",
-      "title": {
-        "rendered": "Gutshaus Vimfow"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Mestlin OT Vimfow</p>\n\n\n\n<p>1860 erbaut gehört das Gutshaus Vimfow ursprünglich zum Kloster Dobbertin. Zum Haus gehört ein kleiner Park mit Teich und alten Linden. Das Gutshaus ist teilweise bewohnt.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58286582588991",
-          "long": "11.962020282376246"
+        "id": 4971,
+        "date": "2022-11-09T14:11:04",
+        "date_gmt": "2022-11-09T13:11:04",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4971"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Mestlin OT Vimfow 1860 erbaut gehört das Gutshaus Vimfow ursprünglich zum Kloster Dobbertin. Zum Haus gehört ein kleiner [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4971"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4971"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:11:04",
+        "modified_gmt": "2022-11-09T13:11:04",
+        "slug": "gutshaus-vimfow",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/gutshaus-vimfow\/",
+        "title": {
+            "rendered": "Gutshaus Vimfow"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Mestlin OT Vimfow<\/p>\n\n\n\n<p>1860 erbaut geh\u00f6rt das Gutshaus Vimfow urspr\u00fcnglich zum Kloster Dobbertin. Zum Haus geh\u00f6rt ein kleiner Park mit Teich und alten Linden. Das Gutshaus ist teilweise bewohnt.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58286582588991",
+                "long": "11.962020282376246"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Mestlin OT Vimfow 1860 erbaut geh\u00f6rt das Gutshaus Vimfow urspr\u00fcnglich zum Kloster Dobbertin. Zum Haus geh\u00f6rt ein kleiner [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4971"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4971"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4970,
-      "date": "2022-11-09T14:02:04",
-      "date_gmt": "2022-11-09T13:02:04",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4970"
-      },
-      "modified": "2022-11-09T14:02:04",
-      "modified_gmt": "2022-11-09T13:02:04",
-      "slug": "dorfkirche-ruest",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/dorfkirche-ruest/",
-      "title": {
-        "rendered": "Dorfkirche Ruest"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Mestlin OT Ruest</p>\n\n\n\n<p>Die älteste Kirchenglocke des Amtes hängt in der frühgotischen Feldsteinkirche in Ruest und stammt aus dem Jahr 1389. Die Gestaltung der Glocke ist einmalig für Mecklenburg-Vorpommern. Am Ostgiebel zeigen sich noch einige Fugenritzungen (sog. Pestlöcher) aus dem Mittelalter.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.615015434186276",
-          "long": "11.944241523742676"
+        "id": 4970,
+        "date": "2022-11-09T14:02:04",
+        "date_gmt": "2022-11-09T13:02:04",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4970"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Mestlin OT Ruest Die älteste Kirchenglocke des Amtes hängt in der frühgotischen Feldsteinkirche in Ruest und stammt aus [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4970"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4970"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T14:02:04",
+        "modified_gmt": "2022-11-09T13:02:04",
+        "slug": "dorfkirche-ruest",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/dorfkirche-ruest\/",
+        "title": {
+            "rendered": "Dorfkirche Ruest"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Mestlin OT Ruest<\/p>\n\n\n\n<p>Die \u00e4lteste Kirchenglocke des Amtes h\u00e4ngt in der fr\u00fchgotischen Feldsteinkirche in Ruest und stammt aus dem Jahr 1389. Die Gestaltung der Glocke ist einmalig f\u00fcr Mecklenburg-Vorpommern. Am Ostgiebel zeigen sich noch einige Fugenritzungen (sog. Pestl\u00f6cher) aus dem Mittelalter.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.615015434186276",
+                "long": "11.944241523742676"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Mestlin OT Ruest Die \u00e4lteste Kirchenglocke des Amtes h\u00e4ngt in der fr\u00fchgotischen Feldsteinkirche in Ruest und stammt aus [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4970"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4970"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4969,
-      "date": "2022-11-09T13:58:20",
-      "date_gmt": "2022-11-09T12:58:20",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4969"
-      },
-      "modified": "2022-11-09T13:58:21",
-      "modified_gmt": "2022-11-09T12:58:21",
-      "slug": "dorfkirche-mestlin",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/dorfkirche-mestlin/",
-      "title": {
-        "rendered": "Dorfkirche Mestlin"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Mestlin OT Mestlin</p>\n\n\n\n<p>Die gotische Backsteinkirche in Mestlin ist die älteste Kirche im Amt. Der Chor des Gebäudes stammt nachweislich aus dem Jahr 1250. Das Gebäude beeindruckt mit seinem achtteiligen Kuppelgewölbe und seinen romantischen Rundbogenfenstern.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58165264438948",
-          "long": "11.929306983947754"
+        "id": 4969,
+        "date": "2022-11-09T13:58:20",
+        "date_gmt": "2022-11-09T12:58:20",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4969"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Gemeinde Mestlin OT Mestlin Die gotische Backsteinkirche in Mestlin ist die älteste Kirche im Amt. Der Chor des Gebäudes [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4969"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4969"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2022-11-09T13:58:21",
+        "modified_gmt": "2022-11-09T12:58:21",
+        "slug": "dorfkirche-mestlin",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/dorfkirche-mestlin\/",
+        "title": {
+            "rendered": "Dorfkirche Mestlin"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Mestlin OT Mestlin<\/p>\n\n\n\n<p>Die gotische Backsteinkirche in Mestlin ist die \u00e4lteste Kirche im Amt. Der Chor des Geb\u00e4udes stammt nachweislich aus dem Jahr 1250. Das Geb\u00e4ude beeindruckt mit seinem achtteiligen Kuppelgew\u00f6lbe und seinen romantischen Rundbogenfenstern.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58165264438948",
+                "long": "11.929306983947754"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Gemeinde Mestlin OT Mestlin Die gotische Backsteinkirche in Mestlin ist die \u00e4lteste Kirche im Amt. Der Chor des Geb\u00e4udes [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4969"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4969"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4968,
-      "date": "2022-11-09T13:45:08",
-      "date_gmt": "2022-11-09T12:45:08",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4968"
-      },
-      "modified": "2023-02-07T09:50:28",
-      "modified_gmt": "2023-02-07T08:50:28",
-      "slug": "paschensee",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/paschensee/",
-      "title": {
-        "rendered": "Paschensee"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Neu Poserin im Naturpark Nossentiner/Schwinzer Heide</p>\n\n\n\n<p>Der Paschensee im Naturpark Nossentiner/Schwinzer Heide ist der sauberste und klarste See der Region. Die Sichttiefe beträgt bis zu 5 m bei einer maximalen Wassertiefe von 15 m und das Wasser hat Trinkwasserqualität. Der See und seine Umgebung gehören zu einer sehr seltenen Art von Lebensräumen, die nach der europäischen Flora-Fauna-Habitat-Richtlinie geschützt sind. Der See liegt in einer Toteisholform am Südrand des zum pommerschen Eisvorstoß gehörenden Sanders. Im umgebenden Naturschutzgebiet findet man die Weiße Seerose, Schwimmendes Laichkraut, Wasserknöterich, Quirl-Tausendblatt, Schilfröhricht, Gemeine Sumpfsimsen, Schneideried, Königsfarn, Rundblättrigen Sonnentau, verschiedene Binsen-, Moos- und Bärlapparten, eine 300jährige Eiche mit 7m Stammumfang, 200jährige Kiefern und darüber hinaus viele Tierarten, wie: Großer Abendsegler, Fransen-, Rauhaut- und Wasserfledermaus, kleine Zangenlibelle, Gemeine Keiljungfer und Fischotter.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58517785398266",
-          "long": "12.231378666092194"
+        "id": 4968,
+        "date": "2022-11-09T13:45:08",
+        "date_gmt": "2022-11-09T12:45:08",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4968"
         },
-        "icon": "wasser",
-        "excerpt": "Lage: Gemeinde Neu Poserin im Naturpark Nossentiner/Schwinzer Heide Der Paschensee im Naturpark Nossentiner/Schwinzer Heide ist der sauberste und klarste See [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4968"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4968"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T09:50:28",
+        "modified_gmt": "2023-02-07T08:50:28",
+        "slug": "paschensee",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/paschensee\/",
+        "title": {
+            "rendered": "Paschensee"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Neu Poserin im Naturpark Nossentiner\/Schwinzer Heide<\/p>\n\n\n\n<p>Der Paschensee im Naturpark Nossentiner\/Schwinzer Heide ist der sauberste und klarste See der Region. Die Sichttiefe betr\u00e4gt bis zu 5 m bei einer maximalen Wassertiefe von 15 m und das Wasser hat Trinkwasserqualit\u00e4t. Der See und seine Umgebung geh\u00f6ren zu einer sehr seltenen Art von Lebensr\u00e4umen, die nach der europ\u00e4ischen Flora-Fauna-Habitat-Richtlinie gesch\u00fctzt sind. Der See liegt in einer Toteisholform am S\u00fcdrand des zum pommerschen Eisvorsto\u00df geh\u00f6renden Sanders. Im umgebenden Naturschutzgebiet findet man die Wei\u00dfe Seerose, Schwimmendes Laichkraut, Wasserkn\u00f6terich, Quirl-Tausendblatt, Schilfr\u00f6hricht, Gemeine Sumpfsimsen, Schneideried, K\u00f6nigsfarn, Rundbl\u00e4ttrigen Sonnentau, verschiedene Binsen-, Moos- und B\u00e4rlapparten, eine 300j\u00e4hrige Eiche mit 7m Stammumfang, 200j\u00e4hrige Kiefern und dar\u00fcber hinaus viele Tierarten, wie: Gro\u00dfer Abendsegler, Fransen-, Rauhaut- und Wasserfledermaus, kleine Zangenlibelle, Gemeine Keiljungfer und Fischotter.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58517785398266",
+                "long": "12.231378666092194"
+            },
+            "icon": "wasser",
+            "excerpt": "Lage: Gemeinde Neu Poserin im Naturpark Nossentiner\/Schwinzer Heide Der Paschensee im Naturpark Nossentiner\/Schwinzer Heide ist der sauberste und klarste See [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4968"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4968"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4966,
-      "date": "2022-11-09T13:30:35",
-      "date_gmt": "2022-11-09T12:30:35",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4966"
-      },
-      "modified": "2023-02-07T09:52:18",
-      "modified_gmt": "2023-02-07T08:52:18",
-      "slug": "dobbertiner-see",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/dobbertiner-see/",
-      "title": {
-        "rendered": "Dobbertiner See"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Gemeinde Dobbertin</p>\n\n\n\n<p>Der Dobbertiner See ist der tiefste See im Amt Goldberg-Mildenitz. Der See ist zweigeteilt in den östlichen Rinnensee mit einer Tiefe von 12m und den westlichen Flachsee mit ca. 2-5m Tiefe.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.61341787595185",
-          "long": "12.067065994225"
+        "id": 4966,
+        "date": "2022-11-09T13:30:35",
+        "date_gmt": "2022-11-09T12:30:35",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4966"
         },
-        "icon": "wasser",
-        "excerpt": "Lage: Gemeinde Dobbertin Der Dobbertiner See ist der tiefste See im Amt Goldberg-Mildenitz. Der See ist zweigeteilt in den östlichen [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4966"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4966"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T09:52:18",
+        "modified_gmt": "2023-02-07T08:52:18",
+        "slug": "dobbertiner-see",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/dobbertiner-see\/",
+        "title": {
+            "rendered": "Dobbertiner See"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Gemeinde Dobbertin<\/p>\n\n\n\n<p>Der Dobbertiner See ist der tiefste See im Amt Goldberg-Mildenitz. Der See ist zweigeteilt in den \u00f6stlichen Rinnensee mit einer Tiefe von 12m und den westlichen Flachsee mit ca. 2-5m Tiefe.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.61341787595185",
+                "long": "12.067065994225"
+            },
+            "icon": "wasser",
+            "excerpt": "Lage: Gemeinde Dobbertin Der Dobbertiner See ist der tiefste See im Amt Goldberg-Mildenitz. Der See ist zweigeteilt in den \u00f6stlichen [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4966"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4966"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4841,
-      "date": "2022-08-18T14:49:50",
-      "date_gmt": "2022-08-18T12:49:50",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4841"
-      },
-      "modified": "2023-02-07T09:58:56",
-      "modified_gmt": "2023-02-07T08:58:56",
-      "slug": "rathaus",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/rathaus/",
-      "title": {
-        "rendered": "Rathaus Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, Lange Straße 67</p>\n\n\n\n<p>Das zweigeschossige, verputzte, klassizistische Gebäude mit dem Mansarddach und seinen vorderseitigen Fledermausgauben, mit der Fassadenbetonung durch die mittige Nische und darüber dem Dreiecksgiebel sowie dem neogotischen offenen Dachreiter mit der Uhr und einem achteckigen Helm und Fialen an den Ecken stammt von 1832, der Dachreiter von 1853. Die Rückfassade hat ein Fachwerk mit steinernen Ausfachungen. Der Standort des Rathauses in der Häuserzeile der Langen Straße ohne Vorplatz oder Platz ist unauffällig und selten für städtische Rathäuser in Mecklenburg-Vorpommern. <br>Heute beherbergt es Verwaltungssitz für das Amt Goldberg-Mildenitz.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.590161035241564",
-          "long": "12.088607619407522"
+        "id": 4841,
+        "date": "2022-08-18T14:49:50",
+        "date_gmt": "2022-08-18T12:49:50",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4841"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg, Lange Straße 67 Das zweigeschossige, verputzte, klassizistische Gebäude mit dem Mansarddach und seinen vorderseitigen Fledermausgauben, mit der Fassadenbetonung [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4841"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4841"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T09:58:56",
+        "modified_gmt": "2023-02-07T08:58:56",
+        "slug": "rathaus",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/rathaus\/",
+        "title": {
+            "rendered": "Rathaus Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, Lange Stra\u00dfe 67<\/p>\n\n\n\n<p>Das zweigeschossige, verputzte, klassizistische Geb\u00e4ude mit dem Mansarddach\u00a0und seinen vorderseitigen Fledermausgauben, mit der Fassadenbetonung durch die mittige Nische und dar\u00fcber dem Dreiecksgiebel sowie dem neogotischen\u00a0offenen Dachreiter\u00a0mit der Uhr und einem achteckigen Helm und Fialen an den Ecken stammt von 1832, der Dachreiter von 1853.\u00a0Die R\u00fcckfassade hat ein Fachwerk mit steinernen Ausfachungen. Der Standort des Rathauses in der H\u00e4userzeile der Langen Stra\u00dfe ohne Vorplatz oder Platz ist unauff\u00e4llig und selten f\u00fcr st\u00e4dtische Rath\u00e4user in Mecklenburg-Vorpommern.\u00a0<br>Heute beherbergt es Verwaltungssitz f\u00fcr das Amt Goldberg-Mildenitz.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.590161035241564",
+                "long": "12.088607619407522"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg, Lange Stra\u00dfe 67 Das zweigeschossige, verputzte, klassizistische Geb\u00e4ude mit dem Mansarddach\u00a0und seinen vorderseitigen Fledermausgauben, mit der Fassadenbetonung [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4841"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4841"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4693,
-      "date": "2022-08-17T13:14:10",
-      "date_gmt": "2022-08-17T11:14:10",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4693"
-      },
-      "modified": "2023-02-07T10:01:09",
-      "modified_gmt": "2023-02-07T09:01:09",
-      "slug": "goldberger-see",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/goldberger-see/",
-      "title": {
-        "rendered": "Goldberger See"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg im Naturpark Nossentiner/Schwinzer Heide</p>\n\n\n\n<p>Der Goldberger See ist ein ausgesprochener Muldensee und liegt in einem Becken zusammen mit dem Großen Medower See und dem Woostener See. Mit einer Ausdehnung von 77 ha ist der Goldberger See der größte See im Amt. Mit gerade mal 2,4 m an seiner tiefsten Stelle gehört er auch zu den flachsten Seen.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.59565413768839",
-          "long": "12.124886336569029"
+        "id": 4693,
+        "date": "2022-08-17T13:14:10",
+        "date_gmt": "2022-08-17T11:14:10",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4693"
         },
-        "icon": "wasser",
-        "excerpt": "Lage: Stadt Goldberg im Naturpark Nossentiner/Schwinzer Heide Der Goldberger See ist ein ausgesprochener Muldensee und liegt in einem Becken zusammen [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4693"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4693"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:01:09",
+        "modified_gmt": "2023-02-07T09:01:09",
+        "slug": "goldberger-see",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/goldberger-see\/",
+        "title": {
+            "rendered": "Goldberger See"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg im Naturpark Nossentiner\/Schwinzer Heide<\/p>\n\n\n\n<p>Der Goldberger See ist ein ausgesprochener Muldensee und liegt in einem Becken zusammen mit dem Gro\u00dfen Medower See und dem Woostener See. Mit einer Ausdehnung von 77 ha ist der Goldberger See der gr\u00f6\u00dfte See im Amt. Mit gerade mal 2,4 m an seiner tiefsten Stelle geh\u00f6rt er auch zu den flachsten Seen.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.59565413768839",
+                "long": "12.124886336569029"
+            },
+            "icon": "wasser",
+            "excerpt": "Lage: Stadt Goldberg im Naturpark Nossentiner\/Schwinzer Heide Der Goldberger See ist ein ausgesprochener Muldensee und liegt in einem Becken zusammen [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4693"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4693"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4692,
-      "date": "2022-08-17T13:13:07",
-      "date_gmt": "2022-08-17T11:13:07",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4692"
-      },
-      "modified": "2023-02-07T10:05:39",
-      "modified_gmt": "2023-02-07T09:05:39",
-      "slug": "haus-der-bibel",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/haus-der-bibel/",
-      "title": {
-        "rendered": "Haus der Bibel"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, Werder Straße 9</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.58668429079592",
-          "long": "12.089634527736214"
+        "id": 4692,
+        "date": "2022-08-17T13:13:07",
+        "date_gmt": "2022-08-17T11:13:07",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4692"
         },
-        "icon": "kultur",
-        "excerpt": "Lage: Stadt Goldberg, Werder Straße 9"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4692"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4692"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:05:39",
+        "modified_gmt": "2023-02-07T09:05:39",
+        "slug": "haus-der-bibel",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/haus-der-bibel\/",
+        "title": {
+            "rendered": "Haus der Bibel"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, Werder Stra\u00dfe 9<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.58668429079592",
+                "long": "12.089634527736214"
+            },
+            "icon": "kultur",
+            "excerpt": "Lage: Stadt Goldberg, Werder Stra\u00dfe 9"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4692"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4692"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4685,
-      "date": "2022-07-21T18:15:04",
-      "date_gmt": "2022-07-21T16:15:04",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4685"
-      },
-      "modified": "2023-02-07T10:18:57",
-      "modified_gmt": "2023-02-07T09:18:57",
-      "slug": "windmuehle-in-goldberg",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/windmuehle-in-goldberg/",
-      "title": {
-        "rendered": "Windmühle in Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg</p>\n\n\n\n<p>Die einzige Windmühle im Amtsbereich steht in Goldberg und ist nicht öffentlich zugänglich.</p>\n\n\n\n<p>Die fünfgeschossige Windmühle von 1863 ist ein Galerieholländer auf dem Mauerwerk einer Vorgängermühle. Sie wurde bis 1953 mit Wind betrieben und anschließend bis 1960 mit Elektromotor. 2005 wurde das leere Gebäude von einer Familie erworben, die bis 2008/10 die Mühle sanierte und innen umbaute und dabei Haube, Galerie, Flügelkreuz und Windrose erneuerte. Innen wurden Ferienwohnungen erstellt.</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.584939157421644",
-          "long": "12.105077505111694"
+        "id": 4685,
+        "date": "2022-07-21T18:15:04",
+        "date_gmt": "2022-07-21T16:15:04",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4685"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg Die einzige Windmühle im Amtsbereich steht in Goldberg und ist nicht öffentlich zugänglich. Die fünfgeschossige Windmühle von 1863 [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4685"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4685"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:18:57",
+        "modified_gmt": "2023-02-07T09:18:57",
+        "slug": "windmuehle-in-goldberg",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/windmuehle-in-goldberg\/",
+        "title": {
+            "rendered": "Windm\u00fchle in Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg<\/p>\n\n\n\n<p>Die einzige Windm\u00fchle im Amtsbereich steht in Goldberg und ist nicht \u00f6ffentlich zug\u00e4nglich.<\/p>\n\n\n\n<p>Die f\u00fcnfgeschossige Windm\u00fchle\u00a0von 1863 ist ein Galerieholl\u00e4nder\u00a0auf dem Mauerwerk einer Vorg\u00e4ngerm\u00fchle. Sie wurde bis 1953 mit Wind betrieben und anschlie\u00dfend bis 1960 mit Elektromotor. 2005 wurde das leere Geb\u00e4ude von einer Familie erworben, die bis 2008\/10 die M\u00fchle sanierte und innen umbaute und dabei Haube, Galerie, Fl\u00fcgelkreuz und Windrose erneuerte. Innen wurden Ferienwohnungen erstellt.<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.584939157421644",
+                "long": "12.105077505111694"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg Die einzige Windm\u00fchle im Amtsbereich steht in Goldberg und ist nicht \u00f6ffentlich zug\u00e4nglich. Die f\u00fcnfgeschossige Windm\u00fchle\u00a0von 1863 [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4685"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4685"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4683,
-      "date": "2022-07-21T18:12:08",
-      "date_gmt": "2022-07-21T16:12:08",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4683"
-      },
-      "modified": "2023-02-07T10:23:01",
-      "modified_gmt": "2023-02-07T09:23:01",
-      "slug": "natur-museum-goldberg",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/natur-museum-goldberg/",
-      "title": {
-        "rendered": "Natur-Museum Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, Müllerweg 2</p>\n\n\n\n<h4>Öffnungszeiten</h4>\n\n\n\n<p><strong>1. April bis 31. Oktober:</strong><br>Mittwoch bis Freitag 11 – 16 Uhr<br>Samstag, Sonntag, Feiertag 11 – 17 Uhr</p>\n\n\n\n<p><strong>1. November bis 31. März:</strong><br>Mittwoch bis Sonntag 11 – 16 Uhr<br>(24. Dezember bis 2. Januar geschlossen)</p>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.592498441215334",
-          "long": "12.091655731201172"
+        "id": 4683,
+        "date": "2022-07-21T18:12:08",
+        "date_gmt": "2022-07-21T16:12:08",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4683"
         },
-        "icon": "geschichte",
-        "excerpt": "Lage: Stadt Goldberg, Müllerweg 2 Öffnungszeiten 1. April bis 31. Oktober:Mittwoch bis Freitag 11 – 16 UhrSamstag, Sonntag, Feiertag 11 [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4683"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4683"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:23:01",
+        "modified_gmt": "2023-02-07T09:23:01",
+        "slug": "natur-museum-goldberg",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/natur-museum-goldberg\/",
+        "title": {
+            "rendered": "Natur-Museum Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, M\u00fcllerweg 2<\/p>\n\n\n\n<h4>\u00d6ffnungszeiten<\/h4>\n\n\n\n<p><strong>1. April bis 31. Oktober:<\/strong><br>Mittwoch bis Freitag 11 \u2013 16 Uhr<br>Samstag, Sonntag, Feiertag 11 \u2013 17 Uhr<\/p>\n\n\n\n<p><strong>1. November bis 31. M\u00e4rz:<\/strong><br>Mittwoch bis Sonntag 11 \u2013 16 Uhr<br>(24. Dezember bis 2. Januar geschlossen)<\/p>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.592498441215334",
+                "long": "12.091655731201172"
+            },
+            "icon": "geschichte",
+            "excerpt": "Lage: Stadt Goldberg, M\u00fcllerweg 2 \u00d6ffnungszeiten 1. April bis 31. Oktober:Mittwoch bis Freitag 11 \u2013 16 UhrSamstag, Sonntag, Feiertag 11 [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4683"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4683"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     },
     {
-      "id": 4682,
-      "date": "2022-07-21T18:11:19",
-      "date_gmt": "2022-07-21T16:11:19",
-      "guid": {
-        "rendered": "https://gomi.qbus.dev/?post_type=poi&#038;p=4682"
-      },
-      "modified": "2023-02-07T10:38:39",
-      "modified_gmt": "2023-02-07T09:38:39",
-      "slug": "kirche-goldberg",
-      "status": "publish",
-      "type": "poi",
-      "link": "https://gomi.qbus.dev/urlaub-freizeit/karte-der-einzigartigkeiten/kirche-goldberg/",
-      "title": {
-        "rendered": "Stadtkirche Goldberg"
-      },
-      "content": {
-        "rendered": "\n<p>Lage: Stadt Goldberg, Kirchenstraße 23</p>\n\n\n\n<p>Die&nbsp;Stadtkirche Goldberg&nbsp;ist eine gotische&nbsp;Kirche im Stadtkern von Goldberg. Der einfache,&nbsp;einschiffige&nbsp;Saalbau mit dreiseitigem Chorschluss wurde vermutlich zwischen 1290 und 1310 aus Backstein errichtet. Zwischen dem Bau des Chorjoches, das auf einem Feldsteinsockel gegründet ist, und dem des Langhauses besteht eine zeitliche Differenz. Letzteres wird auf die zweite Hälfte des 14. Jahrhunderts datiert. Der quadratische Turm wurde als letzter Bauabschnitt wohl erst im 15. Jahrhundert auf der Westseite vorgesetzt. Das im Äußeren durch Strebepfeiler verstärkte Kirchenschiff war eingewölbt.</p>\n\n\n\n<p> Im Innern zeugen noch die Schildbögen und halbrunden Vorlagenbündel von den massiven Gewölben, die mutmaßlich beim Brand 1643 verloren gingen. Die heutige innere Erscheinung mit der flachen Holzbalkendecke wird durch die umfassende Restaurierung von 1840 bis 1844 geprägt. Die Holzbalken aus Nadelholz haben eine Spannweite von 9,50&nbsp;m und die Deckenfelder sind 1,20&nbsp;m breit. Die Eichendielen und Deckenbalken sind Bestand des 17. Jahrhunderts. </p>\n\n\n\n<p>Bei den Farbuntersuchungen konnten Ende 2011 zwei Farbfassungen nachgewiesen werden. Die ältere entstand mit dem Wiederaufbau der Kirche nach dem Brand 1643 und die zweite nach der durchgreifenden Renovierung nach 1842. Es handelt sich um mehrfarbige dekorative Bemalung mit Schablonenornamenten und Strichen.&nbsp;Die Wände erhielten nach dem Wiederaufbau einen Kalkputz und wurden in den Jahrzehnten mehrfach mit Kalkschlämme übertüncht. Während der inneren Restaurierung 2017 konnten nach dem Entfernen alter Verkleidungen an der südlichen Chorwand Weihekreuze&nbsp;aus vorreformatorischer Zeit entdeckt werden. Nach der Renovierung 1842 wurden mit der Veränderung einiger Fenster- und Türöffnungen deren Faschen mit roter Backsteinmalerei versehen und mehrfach, auch 1956, übermalt. In den letzten Jahren bis 2019 hatte die Tischlerei Nast aus Goldberg alle Tischlerarbeiten in der Kirche ausgeführt.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"647\" src=\"https://gomi.qbus.dev/wp-content/uploads/2022/06/Kloster-1-e1654256902964-1024x647.jpg\" alt=\"\" class=\"wp-image-2864\" srcset=\"https://gomi.qbus.dev/wp-content/uploads/2022/06/Kloster-1-e1654256902964-1024x647.jpg 1024w, https://gomi.qbus.dev/wp-content/uploads/2022/06/Kloster-1-e1654256902964-300x190.jpg 300w, https://gomi.qbus.dev/wp-content/uploads/2022/06/Kloster-1-e1654256902964-768x485.jpg 768w, https://gomi.qbus.dev/wp-content/uploads/2022/06/Kloster-1-e1654256902964-1536x971.jpg 1536w, https://gomi.qbus.dev/wp-content/uploads/2022/06/Kloster-1-e1654256902964.jpg 1772w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n",
-        "protected": false
-      },
-      "template": "",
-      "meta": {
-        "inline_featured_image": false
-      },
-      "details": {
-        "coordinates": {
-          "lat": "53.59028078813172",
-          "long": "12.086798250675201"
+        "id": 4682,
+        "date": "2022-07-21T18:11:19",
+        "date_gmt": "2022-07-21T16:11:19",
+        "guid": {
+            "rendered": "https:\/\/gomi.qbus.dev\/?post_type=poi&#038;p=4682"
         },
-        "icon": "bauten",
-        "excerpt": "Lage: Stadt Goldberg, Kirchenstraße 23 Die&nbsp;Stadtkirche Goldberg&nbsp;ist eine gotische&nbsp;Kirche im Stadtkern von Goldberg. Der einfache,&nbsp;einschiffige&nbsp;Saalbau mit dreiseitigem Chorschluss wurde vermutlich [&hellip;]"
-      },
-      "acf": [
-        
-      ],
-      "_links": {
-        "self": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi/4682"
-          }
-        ],
-        "collection": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/poi"
-          }
-        ],
-        "about": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/types/poi"
-          }
-        ],
-        "wp:attachment": [
-          {
-            "href": "https://gomi.qbus.dev/wp-json/wp/v2/media?parent=4682"
-          }
-        ],
-        "curies": [
-          {
-            "name": "wp",
-            "href": "https://api.w.org/{rel}",
-            "templated": true
-          }
-        ]
-      }
+        "modified": "2023-02-07T10:38:39",
+        "modified_gmt": "2023-02-07T09:38:39",
+        "slug": "kirche-goldberg",
+        "status": "publish",
+        "type": "poi",
+        "link": "https:\/\/gomi.qbus.dev\/urlaub-freizeit\/karte-der-einzigartigkeiten\/kirche-goldberg\/",
+        "title": {
+            "rendered": "Stadtkirche Goldberg"
+        },
+        "content": {
+            "rendered": "\n<p>Lage: Stadt Goldberg, Kirchenstra\u00dfe 23<\/p>\n\n\n\n<p>Die&nbsp;Stadtkirche Goldberg&nbsp;ist eine gotische&nbsp;Kirche im Stadtkern von Goldberg. Der einfache,&nbsp;einschiffige&nbsp;Saalbau mit dreiseitigem Chorschluss wurde vermutlich zwischen 1290 und 1310 aus Backstein errichtet. Zwischen dem Bau des Chorjoches, das auf einem Feldsteinsockel gegr\u00fcndet ist, und dem des Langhauses besteht eine zeitliche Differenz. Letzteres wird auf die zweite H\u00e4lfte des 14. Jahrhunderts datiert. Der quadratische Turm wurde als letzter Bauabschnitt wohl erst im 15. Jahrhundert auf der Westseite vorgesetzt. Das im \u00c4u\u00dferen durch Strebepfeiler verst\u00e4rkte Kirchenschiff war eingew\u00f6lbt.<\/p>\n\n\n\n<p> Im Innern zeugen noch die Schildb\u00f6gen und halbrunden Vorlagenb\u00fcndel von den massiven Gew\u00f6lben, die mutma\u00dflich beim Brand 1643 verloren gingen. Die heutige innere Erscheinung mit der flachen Holzbalkendecke wird durch die umfassende Restaurierung von 1840 bis 1844 gepr\u00e4gt. Die Holzbalken aus Nadelholz haben eine Spannweite von 9,50&nbsp;m und die Deckenfelder sind 1,20&nbsp;m breit. Die Eichendielen und Deckenbalken sind Bestand des 17. Jahrhunderts. <\/p>\n\n\n\n<p>Bei den Farbuntersuchungen konnten Ende 2011 zwei Farbfassungen nachgewiesen werden. Die \u00e4ltere entstand mit dem Wiederaufbau der Kirche nach dem Brand 1643 und die zweite nach der durchgreifenden Renovierung nach 1842. Es handelt sich um mehrfarbige dekorative Bemalung mit Schablonenornamenten und Strichen.&nbsp;Die W\u00e4nde erhielten nach dem Wiederaufbau einen Kalkputz und wurden in den Jahrzehnten mehrfach mit Kalkschl\u00e4mme \u00fcbert\u00fcncht. W\u00e4hrend der inneren Restaurierung 2017 konnten nach dem Entfernen alter Verkleidungen an der s\u00fcdlichen Chorwand Weihekreuze&nbsp;aus vorreformatorischer Zeit entdeckt werden. Nach der Renovierung 1842 wurden mit der Ver\u00e4nderung einiger Fenster- und T\u00fcr\u00f6ffnungen deren Faschen mit roter Backsteinmalerei versehen und mehrfach, auch 1956, \u00fcbermalt. In den letzten Jahren bis 2019 hatte die Tischlerei Nast aus Goldberg alle Tischlerarbeiten in der Kirche ausgef\u00fchrt.<\/p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"647\" src=\"https:\/\/gomi.qbus.dev\/wp-content\/uploads\/2022\/06\/Kloster-1-e1654256902964-1024x647.jpg\" alt=\"\" class=\"wp-image-2864\" srcset=\"https:\/\/gomi.qbus.dev\/wp-content\/uploads\/2022\/06\/Kloster-1-e1654256902964-1024x647.jpg 1024w, https:\/\/gomi.qbus.dev\/wp-content\/uploads\/2022\/06\/Kloster-1-e1654256902964-300x190.jpg 300w, https:\/\/gomi.qbus.dev\/wp-content\/uploads\/2022\/06\/Kloster-1-e1654256902964-768x485.jpg 768w, https:\/\/gomi.qbus.dev\/wp-content\/uploads\/2022\/06\/Kloster-1-e1654256902964-1536x971.jpg 1536w, https:\/\/gomi.qbus.dev\/wp-content\/uploads\/2022\/06\/Kloster-1-e1654256902964.jpg 1772w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure>\n",
+            "protected": false
+        },
+        "template": "",
+        "meta": {
+            "inline_featured_image": false
+        },
+        "details": {
+            "coordinates": {
+                "lat": "53.59028078813172",
+                "long": "12.086798250675201"
+            },
+            "icon": "bauten",
+            "excerpt": "Lage: Stadt Goldberg, Kirchenstra\u00dfe 23 Die&nbsp;Stadtkirche Goldberg&nbsp;ist eine gotische&nbsp;Kirche im Stadtkern von Goldberg. Der einfache,&nbsp;einschiffige&nbsp;Saalbau mit dreiseitigem Chorschluss wurde vermutlich [&hellip;]"
+        },
+        "acf": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi\/4682"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/poi"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/types\/poi"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/gomi.qbus.dev\/wp-json\/wp\/v2\/media?parent=4682"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
     }
-  ]
+]
