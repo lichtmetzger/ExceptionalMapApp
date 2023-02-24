@@ -19,7 +19,7 @@
     "expo-system-ui": "^2.0.1",
     "react": "18.1.0",
     "react-native": "0.70.5",
-    "react-native-leaflet-view": "git://github.com/lichtmetzger/react-native-leaflet-expo.git",
+    "react-native-leaflet-view": "lichtmetzger/react-native-leaflet-expo",
     "react-native-webview": "^11.23.1"
   },
   "devDependencies": {
