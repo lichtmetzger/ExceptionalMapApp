@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { StyleSheet, Text, View } from 'react-native';
 import { LatLng, LeafletView } from 'react-native-leaflet-view';
 import Poi from './assets/poi.json';
@@ -34,21 +34,19 @@ const parsedMarkers = Poi.map((item, i) => (
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <LeafletView
-        mapMarkers={parsedMarkers}
-        mapCenterPosition={DEFAULT_COORDINATE}
-        zoom={DEFAULT_ZOOMLEVEL}
-        mapLayers={MAP_LAYERS}
-      />
-      <StatusBar style="auto" />
-    </View>
+      <SafeAreaView style={styles.container}>
+        <LeafletView
+          mapMarkers={parsedMarkers}
+          mapCenterPosition={DEFAULT_COORDINATE}
+          zoom={DEFAULT_ZOOMLEVEL}
+          mapLayers={MAP_LAYERS}
+        />
+      </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 25,
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
