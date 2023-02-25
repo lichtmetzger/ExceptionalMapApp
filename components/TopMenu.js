@@ -14,7 +14,7 @@ function TopMenu() {
     <>
       <View style={styles.container}>
           <View style={styles.logoArea}>
-            <Text>LOGO</Text>
+            <SvgXml xml={Icons.logo_wide}/>
           </View>
           <View style={styles.navArea}>
             <Pressable
