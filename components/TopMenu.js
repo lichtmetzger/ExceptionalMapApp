@@ -1,7 +1,9 @@
 import { useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import Icons from '../assets/icons.json';
+import FakeModal from './FakeModal';
 import { SvgXml } from "react-native-svg";
+import QRCodeScannerScreen from '../screens/QRCodeScannerScreen';
 
 function TopMenu() {
   const [qrModalVisible, setQrModalVisible] = useState(false);
@@ -30,9 +32,9 @@ function TopMenu() {
           </View>
       </View>
       {qrModalVisible &&
-        <View style={styles.modal}>
-          <Text>I'm a pseudo modal</Text>
-        </View>
+        <FakeModal>
+          <QRCodeScannerScreen/>
+        </FakeModal>
       }
     </>
     
@@ -64,14 +66,5 @@ const styles = StyleSheet.create({
   },
   settingsIcon: {
     padding: 7,
-  },
-  modal: {
-    backgroundColor: '#ffffff',
-    padding: 20,
-    top: 58,
-    left: 0,
-    width: '100%',
-    position: 'absolute',
-    zIndex: 9999
   }
 });
