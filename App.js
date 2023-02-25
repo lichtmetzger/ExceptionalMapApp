@@ -7,7 +7,7 @@ import TopMenu from './components/TopMenu';
 export default function App() {
   return (
       <SafeAreaProvider>
-        <StatusBar style="dark"></StatusBar>
+        <StatusBar style="auto"></StatusBar>
         <SafeAreaView style={styles.container}>
           {/* Make sure topMenu stays below StatusBar */}
           <View style={styles.topMenuWrap}>
