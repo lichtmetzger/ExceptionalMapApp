@@ -16,7 +16,11 @@ function QRCodeScannerScreen() {
 
   const handleScan = (scanningResult) => {
     if (!scanningResult.cancelled) {
-      setResult(scanningResult.data);
+      const url = scanningResult.data;
+      const match = url.match(/show=(\d+)/);
+      const showParam = match ? match[1] : null;
+
+      setResult('Die Einzigartigkeit ist: ' + showParam);
     }
   }
 
