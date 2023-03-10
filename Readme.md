@@ -1,6 +1,6 @@
 # ExceptionalMapApp
 
-![Screenshot](_doc/assets/Screenshot_20230225-205711_ExceptionalMapApp.png)
+<img src="_doc/assets/Screenshot_20230225-205711_ExceptionalMapApp.png" width="200">
 
 This is a work-in-progress app for displaying points of interest around Goldberg, Germany.
 
